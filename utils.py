@@ -34,7 +34,7 @@ def match_image(image: ImageGrab.Image, template: ImageGrab.Image) -> bool:
   image_grayscalex = image_grayscale(image_arr)
 
   res = cv2.matchTemplate(image_grayscalex, template, cv2.TM_CCOEFF_NORMED)
-  THRESHOLD = 0.75
+  THRESHOLD = 0.8
   loc = np.where(res >= THRESHOLD)
 
   # Draw boudning box
