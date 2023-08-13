@@ -1,8 +1,6 @@
 import ctypes
 from time import sleep
 
-import jstimers
-
 import game_assets
 from stats import PlayerStats
 
@@ -36,7 +34,7 @@ class Recoil:
 
   def start(self):
     while True:
-      if self.player_stats.fire and self.player_stats.aim:
+      if self.player_stats.fire and self.player_stats.aim and self.player_stats.left_ammo:
         self.fire()
       else:
         self.stop()
@@ -60,8 +58,7 @@ class Recoil:
       if self.ms >= delay:
         current_index = index
 
-
-    print(current_index, self.ms)
+    print(self.player_stats.get_active_weapon().name, current_index, self.ms)
     pos = 0
     if self.ostatokX >= 1:
       pos = 1
@@ -83,10 +80,7 @@ class Recoil:
       if x > 0:
         self.ostatokX += float(f"0.{intX}")
       else:
-        self.ostatokXneg += float(f"-0.{intX}")
-
-    print("self.ostatokX", self.ostatokX)
-    print("self.ostatokXneg", self.ostatokXneg)
+        self.ostatokXneg -= float(f"0.{intX}")
 
     if self.player_stats.shift:
       ctypes.windll.user32.mouse_event(1, 0, int(x * 1.3), 0, 0)

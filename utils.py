@@ -3,21 +3,16 @@ from typing import Any
 import cv2
 import numpy as np
 import pytesseract
-from PIL import ImageGrab
+from PIL import Image, ImageGrab
 
 pytesseract.pytesseract.tesseract_cmd = r'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
 
-def screenshot(screenxy: tuple) -> ImageGrab.Image:
+def screenshot(screenxy: tuple) -> Image.Image:
   return ImageGrab.grab(bbox=screenxy)
 
 def image_grayscale(image: ImageGrab.Image) -> Any:
     """Converts an image to grayscale so OCR has an easier time deciphering characters"""
     return cv2.cvtColor(image, cv2.COLOR_BGR2GRAY)
-
-def image_array(image: ImageGrab.Image) -> Any:
-    """Turns the image into an array"""
-    image = np.asarray(image)
-    return image
 
 def image_array(image: ImageGrab.Image) -> Any:
     """Turns the image into an array"""
@@ -57,7 +52,7 @@ def get_text(coord: tuple) -> str:
   array = image_array(resize)
   grayscale = image_grayscale(array)
   thresholding = image_thresholding(grayscale)
-  return pytesseract.image_to_string(thresholding).strip()
+  return pytesseract.image_to_string(thresholding, config='--oem 3 --psm 6 -c tessedit_char_whitelist=0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ').strip()
 
 def get_text_from_image(image: ImageGrab.Image, coord: tuple) -> str:
   image = image.crop(coord)
@@ -65,4 +60,4 @@ def get_text_from_image(image: ImageGrab.Image, coord: tuple) -> str:
   array = image_array(resize)
   grayscale = image_grayscale(array)
   thresholding = image_thresholding(grayscale)
-  return pytesseract.image_to_string(thresholding).strip()
+  return pytesseract.image_to_string(thresholding, config='--oem 3 --psm 6 -c tessedit_char_whitelist=0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ').strip()

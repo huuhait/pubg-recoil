@@ -51,7 +51,11 @@ class Game:
   def scan_hook(self):
     while True:
       if self.scanning == False:
-        sleep(0.05)
+        if self.player_stats.fire and self.player_stats.aim:
+          self.player_stats.left_ammo = game_functions.get_ammo_left()
+          sleep(0.02)
+        else:
+          sleep(0.05)
         continue
 
       screenshot = ImageGrab.grab(None)
@@ -62,6 +66,7 @@ class Game:
         continue
 
       weapons = game_functions.get_guns(screenshot)
+      print(weapons)
       self.player_stats.update_weapons(weapons)
       sleep(0.5)
 

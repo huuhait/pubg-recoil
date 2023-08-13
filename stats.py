@@ -8,12 +8,16 @@ class PlayerStats:
   shift: bool = False
   fire: bool = False
   aim: bool = False
+  left_ammo: bool = False
 
   def set_fire(self, fire: bool):
     self.fire = fire
 
   def set_aim(self, aim: bool):
     self.aim = aim
+
+  def update_ammo(self, left: bool):
+    self.left_ammo = left
 
   def update_weapons(self, weapons: list[Weapon]):
     self.weapons = weapons
