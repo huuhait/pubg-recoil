@@ -1,7 +1,9 @@
+from pyuac import main_requires_admin
+
 from game import Game
-from weapon import Weapon
 
 
+@main_requires_admin
 def main():
   game = Game()
   game.start()

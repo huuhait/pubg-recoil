@@ -1738,15 +1738,15 @@ function pubg() {
         }
         grenadeActive = false;
       } else {
-        if (rightBtnCheck == true) {
-          if (user32.GetKeyState(0x01) !== 0 && user32.GetKeyState(0x01) !== 1 && user32.GetKeyState(0x02) < 0) {
-            run = true;
-          }
-        } else {
-          if (user32.GetKeyState(0x01) < 0) {
-            run = true;
-          }
-        }
+        // if (rightBtnCheck == true) {
+        //   if (user32.GetKeyState(0x01) !== 0 && user32.GetKeyState(0x01) !== 1 && user32.GetKeyState(0x02) < 0) {
+        //     run = true;
+        //   }
+        // } else {
+        //   if (user32.GetKeyState(0x01) < 0) {
+        //     run = true;
+        //   }
+        // }
       }
       // antiShaker(null);
     }, 10);

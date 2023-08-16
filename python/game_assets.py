@@ -39,6 +39,21 @@ MUZZLE_FACTOR = {
   "compensator": 1.25
 }
 
+STANDS = {
+  "stand": {
+    "img": "assets/stand/stand.png",
+    "value": 1
+  },
+  "sit": {
+    "img": "assets/stand/sit.png",
+    "value": 1.3
+  },
+  "lie": {
+    "img": "assets/stand/lie.png",
+    "value": 1.8
+  },
+}
+
 RECOIL_OFFSETS = {
   "akm": {
     "interval": 10,
@@ -60,9 +75,9 @@ RECOIL_OFFSETS = {
       150: 12,
       250: 14,
       350: 15,
-      480: 16,
-      550: 16.5,
-      650: 17.5,
+      420: 16,
+      450: 17,
+      650: 18,
     },
     "scopes": [[1, 1], [1, 2]]
   },
@@ -70,11 +85,15 @@ RECOIL_OFFSETS = {
     "interval": 20,
     "delay_indexes": {
       0: 14,
+      50: 15,
       150: 16,
-      240: 20,
-      300: 24,
-      350: 26,
-      550: 24,
+      180: 20,
+      200: 22,
+      220: 24,
+      250: 26,
+      280: 27.5,
+      300: 29,
+      400: 26,
     },
     "scopes": [[1, 1], [1, 2]]
   },

@@ -5,6 +5,8 @@ import numpy as np
 import pytesseract
 from PIL import Image, ImageGrab
 
+import lib
+
 pytesseract.pytesseract.tesseract_cmd = r'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
 
 def screenshot(screenxy: tuple) -> Image.Image:
@@ -34,7 +36,7 @@ def match_image(image: ImageGrab.Image, template: ImageGrab.Image) -> bool:
   image_grayscalex = image_grayscale(image_arr)
 
   res = cv2.matchTemplate(image_grayscalex, template, cv2.TM_CCOEFF_NORMED)
-  THRESHOLD = 0.8
+  THRESHOLD = 0.5
   loc = np.where(res >= THRESHOLD)
 
   # Draw boudning box
@@ -61,3 +63,10 @@ def get_text_from_image(image: ImageGrab.Image, coord: tuple) -> str:
   grayscale = image_grayscale(array)
   thresholding = image_thresholding(grayscale)
   return pytesseract.image_to_string(thresholding, config='--oem 3 --psm 6 -c tessedit_char_whitelist=0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ').strip()
+
+def getpixel(pic, x, y):
+    pipi = pic.ravel()
+    totallenghtpic = pipi.shape[0]-1
+    width = pic.shape[1]
+    resus0 = lib.getpixel(pipi, x, y, width, totallenghtpic)
+    return resus0

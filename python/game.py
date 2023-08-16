@@ -1,4 +1,5 @@
 import signal
+from multiprocessing import Process
 from threading import Thread
 from time import sleep
 
@@ -44,46 +45,68 @@ class Game:
           self.player_stats.active_weapon(1)
         case "2":
           self.player_stats.active_weapon(2)
+        case "3":
+          self.player_stats.active_weapon(None)
+        case "4":
+          self.player_stats.active_weapon(None)
+        case "5":
+          self.player_stats.active_weapon(None)
         case "tab":
           self.scanning = True
-      sleep(0.1)
+          print("a")
+      sleep(0.02)
+
+  def scan_bullet(self):
+    while True:
+      print(self.player_stats.fire)
+      if self.scanning == False and self.player_stats.fire and self.player_stats.aim:
+        self.player_stats.left_ammo = game_functions.get_ammo_left()
+      sleep(0.05)
+
+  def scan_stand(self):
+    while True:
+      if self.scanning == False and self.player_stats.fire and self.player_stats.aim and self.player_stats.left_ammo:
+        game_functions.get_stand_state()
+      sleep(0.05)
 
   def scan_hook(self):
     while True:
       if self.scanning == False:
-        if self.player_stats.fire and self.player_stats.aim:
-          self.player_stats.left_ammo = game_functions.get_ammo_left()
-          sleep(0.02)
-        else:
-          sleep(0.05)
+        sleep(0.02)
         continue
 
+      print(self.scanning)
       screenshot = ImageGrab.grab(None)
       is_inventory_opening = game_functions.is_inventory_opening(screenshot)
       if is_inventory_opening == False:
         self.scanning = False
-        sleep(0.05)
+        sleep(0.02)
         continue
 
       weapons = game_functions.get_guns(screenshot)
-      print(weapons)
       self.player_stats.update_weapons(weapons)
-      sleep(0.5)
+      print(weapons)
+      sleep(0.05)
 
   def stop():
     exit(0)
 
   def start(self):
-    keyboard_thread = Thread(target=self.keyboard_hook)
-    keyboard_thread.daemon = True
+    keyboard_thread = Thread(target=self.keyboard_hook, daemon=True)
     keyboard_thread.start()
+    keyboard_thread.join()
 
-    scan_thread = Thread(target=self.scan_hook)
-    scan_thread.daemon = True
+    scan_thread = Thread(target=self.scan_hook, daemon=True)
     scan_thread.start()
+    scan_thread.join()
 
-    fire_thread = Thread(target=self.wait_for_fire)
-    fire_thread.daemon = True
+    scan_bullet_thread = Thread(target=self.scan_bullet, daemon=True)
+    scan_bullet_thread.start()
+
+    scan_stand_thread = Thread(target=self.scan_stand, daemon=True)
+    scan_stand_thread.start()
+
+    fire_thread = Thread(target=self.wait_for_fire, daemon=True)
     fire_thread.start()
 
     signal.signal(signal.SIGINT, self.stop)

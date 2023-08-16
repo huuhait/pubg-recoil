@@ -65,14 +65,12 @@ class Recoil:
     elif self.ostatokXneg <= 1:
       pos = -1
 
-    x = (current_index * self.multiply_to_ideal / self.factor) * self.weapon.scope_factor() / self.weapon.grip_factor() / self.weapon.muzzle_factor() / self.sitting_factor + pos
+    x = ((current_index / 1.5) * self.multiply_to_ideal / self.factor) * self.weapon.scope_factor() / self.weapon.grip_factor() / self.weapon.muzzle_factor() / self.sitting_factor + pos
     self.ms += 10
 
     if (self.ostatokX >= 1):
-      # x += 1
       self.ostatokX -= 1
     elif self.ostatokXneg <= 1:
-      # x += -1
       self.ostatokXneg += 1
 
     if isinstance(x, int) == False:

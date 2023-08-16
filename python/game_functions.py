@@ -1,11 +1,41 @@
 import cv2
-import pytesseract
+import numpy as np
+import pyximport
+from locate_pixelcolor_cythonmulti import search_colors
 from PIL import Image, ImageGrab
+from pixelmatch.contrib.PIL import pixelmatch
+
+import lib
+
+pyximport.install(setup_args={"script_args" : ["--verbose"]})
+import time
 
 import game_assets
+import lib
 import screen_coords
 import utils
 from weapon import Weapon
+
+
+def get_stand_state():
+  img_ingame = utils.screenshot(screen_coords.STAND.get_coords())
+  img_ingame = utils.image_array(img_ingame)
+  print(time.time())
+  rStand, gStand, bStand = utils.getpixel(img_ingame, 38, 12)
+  # rSit, gSit, bSit = utils.getpixel(img_ingame, 48, 37)
+  rLie, gLie, bLie = utils.getpixel(img_ingame, 13, 49)
+  state = "stand"
+  if rStand > 200 and gStand > 200 and bStand > 200:
+    state = "stand"
+  elif rLie > 200 and gLie > 200 and bLie > 200:
+    state = "lie"
+  else:
+    state = "sit"
+
+  print(state)
+  print(time.time())
+
+  return game_assets.STANDS[state]["value"]
 
 
 def get_weapon_name(weapon_image: ImageGrab.Image) -> str:
@@ -68,8 +98,10 @@ def get_guns(screenshot: ImageGrab.Image) -> dict[str, Weapon]:
 
 def get_ammo_left() -> bool:
   img = utils.screenshot(screen_coords.AMMO.get_coords())
-  r, g, b = img.getpixel((35 , 29))
-  return r != 255
+  img = utils.image_array(img)
+  colors0 = np.array([[255, 0, 0]], dtype=np.uint8)
+  res  = search_colors(img, colors0)
+  return len(res) == 0
 
 def is_inventory_opening(screenshot: ImageGrab.Image) -> bool:
   return utils.get_text_from_image(screenshot, screen_coords.INVENTORY.get_coords()) == 'INVENTORY'

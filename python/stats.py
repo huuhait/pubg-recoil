@@ -26,9 +26,10 @@ class PlayerStats:
     return
 
   def active_weapon(self, weapon_slot: int):
-    if len(self.weapons) < weapon_slot:
+    if weapon_slot == None:
       self.active_weapon_slot = None
-      self.weapon = None
+    elif len(self.weapons) < weapon_slot:
+      self.active_weapon_slot = None
       return
 
     self.active_weapon_slot = weapon_slot
