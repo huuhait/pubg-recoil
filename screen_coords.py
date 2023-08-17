@@ -14,6 +14,6 @@ WEAPON_NAME: Vec4 = Vec4(GameWindow(62, 10, 300, 55), use_screen_offset=False)
 
 INVENTORY: Vec4 = Vec4(GameWindow(489, 70, 666, 124))
 
-AMMO: Vec4 = Vec4(GameWindow(1250, 1315, 1308, 1365))
+BULLETS: Vec4 = Vec4(GameWindow(1250, 1315, 1308, 1365))
 
 STAND: Vec4 = Vec4(GameWindow(930, 1299, 995, 1370))

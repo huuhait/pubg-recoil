@@ -1,16 +1,22 @@
 from typing import Any
 
 import cv2
+import dxcam
 import numpy as np
 import pytesseract
+from mss import mss
 from PIL import Image, ImageGrab
 
-import lib
-
+cam = dxcam.create()
 pytesseract.pytesseract.tesseract_cmd = r'C:\\Program Files\\Tesseract-OCR\\tesseract.exe'
 
 def screenshot(screenxy: tuple) -> Image.Image:
-  return ImageGrab.grab(bbox=screenxy)
+  frame = cam.grab(region=screenxy)
+
+  if frame is None:
+    return screenshot(screenxy)
+
+  return Image.fromarray(frame)
 
 def image_grayscale(image: ImageGrab.Image) -> Any:
     """Converts an image to grayscale so OCR has an easier time deciphering characters"""
@@ -36,7 +42,7 @@ def match_image(image: ImageGrab.Image, template: ImageGrab.Image) -> bool:
   image_grayscalex = image_grayscale(image_arr)
 
   res = cv2.matchTemplate(image_grayscalex, template, cv2.TM_CCOEFF_NORMED)
-  THRESHOLD = 0.5
+  THRESHOLD = 0.85
   loc = np.where(res >= THRESHOLD)
 
   # Draw boudning box
@@ -64,9 +70,5 @@ def get_text_from_image(image: ImageGrab.Image, coord: tuple) -> str:
   thresholding = image_thresholding(grayscale)
   return pytesseract.image_to_string(thresholding, config='--oem 3 --psm 6 -c tessedit_char_whitelist=0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ').strip()
 
-def getpixel(pic, x, y):
-    pipi = pic.ravel()
-    totallenghtpic = pipi.shape[0]-1
-    width = pic.shape[1]
-    resus0 = lib.getpixel(pipi, x, y, width, totallenghtpic)
-    return resus0
+def getpixel(pic: Image.Image, x: int, y: int) -> tuple[int, int, int]:
+  return pic.getpixel((x, y))

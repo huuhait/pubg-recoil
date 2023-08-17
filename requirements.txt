@@ -1,0 +1,8 @@
+pynput==1.7.6
+Pillow==10.0.0
+cython==3.0.0
+opencv-python==4.8.0.76
+pytesseract==0.3.10
+pyuac==0.0.3
+keyboard==0.13.5
+pywin32==306

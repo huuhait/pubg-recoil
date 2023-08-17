@@ -26,7 +26,6 @@ class Recoil:
 
   ostatokX = 0 # Didn't understand
   ostatokXneg = 0
-  sitting_factor = 1 # Update soon
   count = 0 # Update soon
 
   def __init__(self, player_stats: PlayerStats):
@@ -34,8 +33,9 @@ class Recoil:
 
   def start(self):
     while True:
-      if self.player_stats.fire and self.player_stats.aim and self.player_stats.left_ammo:
+      if self.player_stats.fire and self.player_stats.aim and self.player_stats.get_bullets_left():
         self.fire()
+        continue
       else:
         self.stop()
         sleep(0.01)
@@ -65,7 +65,7 @@ class Recoil:
     elif self.ostatokXneg <= 1:
       pos = -1
 
-    x = ((current_index / 1.5) * self.multiply_to_ideal / self.factor) * self.weapon.scope_factor() / self.weapon.grip_factor() / self.weapon.muzzle_factor() / self.sitting_factor + pos
+    x = (current_index * self.multiply_to_ideal / self.factor) * self.weapon.scope_factor() / self.weapon.grip_factor() / self.weapon.muzzle_factor() / self.player_stats.get_stand_factor() + pos
     self.ms += 10
 
     if (self.ostatokX >= 1):

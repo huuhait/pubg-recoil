@@ -1,5 +1,5 @@
 import signal
-from multiprocessing import Process
+import time
 from threading import Thread
 from time import sleep
 
@@ -53,40 +53,46 @@ class Game:
           self.player_stats.active_weapon(None)
         case "tab":
           self.scanning = True
-          print("a")
       sleep(0.02)
 
   def scan_bullet(self):
     while True:
-      print(self.player_stats.fire)
-      if self.scanning == False and self.player_stats.fire and self.player_stats.aim:
-        self.player_stats.left_ammo = game_functions.get_ammo_left()
-      sleep(0.05)
+      try:
+        if self.scanning == False and self.player_stats.fire and self.player_stats.aim:
+          self.player_stats.set_bullets_left(game_functions.get_bullets_left())
+        sleep(0.1)
+      except:
+        print("Something problem while update bullets left")
 
   def scan_stand(self):
     while True:
-      if self.scanning == False and self.player_stats.fire and self.player_stats.aim and self.player_stats.left_ammo:
-        game_functions.get_stand_state()
-      sleep(0.05)
+      try:
+        if self.scanning == False and self.player_stats.fire and self.player_stats.aim and self.player_stats.get_bullets_left():
+          self.player_stats.set_stand_state(game_functions.get_stand_state())
+        sleep(0.2)
+      except:
+        print("Something problem while update stand state")
 
   def scan_hook(self):
     while True:
-      if self.scanning == False:
-        sleep(0.02)
-        continue
+      try:
+        if self.scanning == False:
+          sleep(0.02)
+          continue
 
-      print(self.scanning)
-      screenshot = ImageGrab.grab(None)
-      is_inventory_opening = game_functions.is_inventory_opening(screenshot)
-      if is_inventory_opening == False:
-        self.scanning = False
-        sleep(0.02)
-        continue
+        screenshot = ImageGrab.grab(None)
+        is_inventory_opening = game_functions.is_inventory_opening(screenshot)
+        if is_inventory_opening == False:
+          self.scanning = False
+          sleep(0.02)
+          continue
 
-      weapons = game_functions.get_guns(screenshot)
-      self.player_stats.update_weapons(weapons)
-      print(weapons)
-      sleep(0.05)
+        weapons = game_functions.get_guns(screenshot)
+        self.player_stats.set_weapons(weapons)
+        print(weapons)
+        sleep(0.05)
+      except:
+        print("Something problem while scan")
 
   def stop():
     exit(0)
@@ -94,11 +100,9 @@ class Game:
   def start(self):
     keyboard_thread = Thread(target=self.keyboard_hook, daemon=True)
     keyboard_thread.start()
-    keyboard_thread.join()
 
     scan_thread = Thread(target=self.scan_hook, daemon=True)
     scan_thread.start()
-    scan_thread.join()
 
     scan_bullet_thread = Thread(target=self.scan_bullet, daemon=True)
     scan_bullet_thread.start()
