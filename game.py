@@ -58,18 +58,18 @@ class Game:
   def scan_bullet(self):
     while True:
       try:
-        if self.scanning == False and self.player_stats.fire and self.player_stats.aim:
+        if self.scanning == False and self.player_stats.fire and self.player_stats.aim and self.player_stats.get_active_weapon() != None:
           self.player_stats.set_bullets_left(game_functions.get_bullets_left())
-        sleep(0.1)
+        sleep(0.2)
       except:
         print("Something problem while update bullets left")
 
   def scan_stand(self):
     while True:
       try:
-        if self.scanning == False and self.player_stats.fire and self.player_stats.aim and self.player_stats.get_bullets_left():
+        if self.scanning == False and self.player_stats.fire and self.player_stats.aim and self.player_stats.get_bullets_left() and self.player_stats.get_active_weapon() != None:
           self.player_stats.set_stand_state(game_functions.get_stand_state())
-        sleep(0.2)
+        sleep(0.5)
       except:
         print("Something problem while update stand state")
 

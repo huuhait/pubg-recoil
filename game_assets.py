@@ -28,15 +28,15 @@ SCOPE_FACTORS = {
 
 GRIP_FACTORS = {
   None: 1,
-  "vertical": 1.24,
+  "vertical": 1.25,
   "half": 1.2,
   "thumb": 1.1
 }
 
 MUZZLE_FACTOR = {
   None: 1,
-  "flash hider": 1.175,
-  "compensator": 1.25
+  "flash hider": 1.14,
+  "compensator": 1.28
 }
 
 STANDS = {

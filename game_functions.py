@@ -50,8 +50,6 @@ def get_weapon_name(weapon_image: ImageGrab.Image) -> str:
     return "none"
 
 def get_gun(image: ImageGrab.Image):
-  # screenshot = Image.open("examples/Example1.png")
-  # screenshot = screenshot.crop(coord)
   name = get_weapon_name(image)
   if name == "none":
     return

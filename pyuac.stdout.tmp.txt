@@ -1,0 +1,5330 @@
+[<Weapon name:m416 muzzle:compensator foregrip:None>]
+[<Weapon name:m416 muzzle:compensator foregrip:None>]
+[<Weapon name:m416 muzzle:compensator foregrip:None>]
+stand
+[<Weapon name:m416 muzzle:compensator foregrip:None>]
+[<Weapon name:m416 muzzle:compensator foregrip:None>]
+m416 3.07 0
+m416 3.07 10
+m416 3.07 20
+m416 3.07 30
+m416 3.07 40
+m416 3.07 50
+m416 3.07 60
+m416 3.07 70
+m416 3.07 80
+m416 3.07 90
+m416 3.07 100
+m416 3.07 110
+m416 3.07 120
+m416 3.07 130
+m416 3.07 140
+m416 3.7 150
+m416 3.7 160
+m416 3.7 170
+m416 3.7 180
+m416 3.7 190
+m416 3.7 200
+m416 3.7 210
+m416 3.7 220
+m416 3.7 230
+m416 3.7 240
+m416 4.3 250
+m416 4.3 260
+m416 4.3 270
+m416 4.3 280
+m416 4.3 290
+m416 4.3 300
+m416 4.3 310
+m416 4.3 320
+standm416 4.3 330
+
+m416 4.3 340
+m416 4.61 350
+m416 4.61 360
+m416 4.61 370
+m416 4.61 380
+m416 4.61 390
+m416 4.61 400
+m416 4.61 410
+m416 4.61 420
+m416 4.61 430
+m416 4.61 440
+m416 4.61 450
+m416 4.61 460
+m416 4.61 470
+m416 4.92 480
+m416 4.92 490
+m416 4.92 500
+m416 4.92 510
+m416 4.92 520
+m416 4.92 530
+m416 4.92 540
+m416 5.07 550
+m416 5.07 560
+m416 5.07 570
+m416 5.07 580
+m416 5.07 590
+m416 5.07 600
+m416 5.07 610
+m416 5.07 620
+m416 3.07 0
+m416 3.07 10
+m416 3.07 20
+m416 3.07 30
+m416 3.07 40
+m416 3.07 50
+m416 3.07 60
+m416 3.07 70
+m416 3.07 80
+m416 3.07 90
+m416 3.07 100
+m416 3.07 110
+m416 3.07 120
+m416 3.07 130
+m416 3.07 140
+m416 3.7 150
+m416 3.7 160
+m416 3.7 170
+m416 3.7 180
+m416 3.7 190
+m416 3.7 200
+m416 3.7 210
+stand
+m416 3.7 220
+m416 3.7 230
+m416 3.7 240
+m416 4.3 250
+m416 4.3 260
+m416 4.3 270
+m416 4.3 280
+m416 4.3 290
+m416 4.3 300
+m416 4.3 310
+m416 4.3 320
+m416 4.3 330
+m416 4.3 340
+m416 4.61 350
+m416 4.61 360
+m416 4.61 370
+m416 4.61 380
+m416 4.61 390
+m416 4.61 400
+m416 4.61 410
+m416 4.61 420
+m416 4.61 430
+m416 4.61 440
+m416 3.07 0
+m416 3.07 10
+m416 3.07 20
+m416 3.07 30
+m416 3.07 40
+m416 3.07 50
+m416 3.07 60
+m416 3.07 70
+m416 3.07 80
+m416 3.07 90
+m416 3.07 100
+m416 3.07 110
+m416 3.07 120
+m416 3.07 130
+m416 3.07 140
+m416 3.7 150
+m416 3.7 160
+m416 3.7 170
+m416 3.7 180
+m416 3.7 190
+m416 3.7 200
+m416 3.7 210
+m416 3.7 220
+stand
+m416 3.7 230
+m416 3.7 240
+m416 4.3 250
+m416 4.3 260
+m416 4.3 270
+m416 4.3 280
+m416 4.3 290
+m416 4.3 300
+m416 4.3 310
+m416 4.3 320
+m416 4.3 330
+m416 4.3 340
+m416 3.07 0
+m416 3.07 10
+m416 3.07 20
+m416 3.07 30
+m416 3.07 40
+m416 3.07 50
+m416 3.07 60
+m416 3.07 70
+m416 3.07 80
+m416 3.07 90
+m416 3.07 100
+m416 3.07 110
+m416 3.07 120
+m416 3.07 130
+m416 3.07 140
+m416 3.7 150
+m416 3.7 160
+m416 3.7 170
+m416 3.7 180
+m416 3.7 190
+m416 3.7 200
+m416 3.7 210
+[<Weapon name:m416 muzzle:None foregrip:None>]
+[<Weapon name:m416 muzzle:None foregrip:None>]
+[<Weapon name:m416 muzzle:None foregrip:None>]
+[<Weapon name:m416 muzzle:None foregrip:None>]
+m416 3.07 0
+m416 3.07 10
+m416 3.07 20
+m416 3.07 30
+m416 3.07 40
+m416 3.07 50
+stand
+m416 3.07 60
+m416 3.07 70
+m416 3.07 80
+m416 3.07 90
+m416 3.07 100
+m416 3.07 110
+m416 3.07 120
+m416 3.07 130
+m416 3.07 140
+m416 3.7 150
+m416 3.7 160
+m416 3.7 170
+m416 3.7 180
+m416 3.7 190
+m416 3.7 200
+m416 3.7 210
+m416 3.7 220
+m416 3.7 230
+m416 3.7 240
+m416 4.3 250
+m416 4.3 260
+m416 4.3 270
+m416 4.3 280
+m416 4.3 290
+m416 4.3 300
+m416 4.3 310
+m416 4.3 320
+m416 4.3 330
+m416 4.3 340
+m416 4.61 350
+m416 4.61 360
+m416 4.61 370
+m416 4.61 380
+m416 4.61 390
+m416 4.61 400
+m416 4.61 410
+m416 4.61 420
+[<Weapon name:m416 muzzle:None foregrip:None>]
+m416 3.07 0
+m416 3.07 10
+m416 3.07 20
+m416 3.07 30
+m416 3.07 40
+m416 3.07 50
+m416 3.07 60
+m416 3.07 70
+stand
+m416 3.07 80
+m416 3.07 90
+m416 3.07 100
+m416 3.07 110
+m416 3.07 120
+m416 3.07 130
+m416 3.07 140
+m416 3.7 150
+m416 3.7 160
+m416 3.7 170
+m416 3.7 180
+m416 3.7 190
+m416 3.7 200
+m416 3.7 210
+m416 3.7 220
+m416 3.7 230
+m416 3.7 240
+m416 4.3 250
+m416 4.3 260
+m416 4.3 270
+m416 4.3 280
+m416 4.3 290
+m416 4.3 300
+m416 4.3 310
+m416 4.3 320
+m416 4.3 330
+m416 4.3 340
+m416 4.61 350
+m416 4.61 360
+m416 4.61 370
+m416 4.61 380
+m416 4.61 390
+m416 4.61 400
+m416 4.61 410
+m416 4.61 420
+m416 4.61 430
+m416 4.61 440
+m416 4.61 450
+m416 4.61 460
+m416 4.61 470
+m416 4.92 480
+m416 4.92 490
+m416 4.92 500
+m416 4.92 510
+m416 4.92 520
+m416 4.92 530
+m416 4.92 540
+stand
+m416 5.07 550
+m416 5.07 560
+m416 5.07 570
+m416 5.07 580
+m416 5.07 590
+m416 5.07 600
+m416 5.07 610
+m416 5.07 620
+m416 5.07 630
+m416 5.07 640
+m416 5.32 650
+m416 5.32 660
+m416 5.32 670
+m416 5.32 680
+m416 5.32 690
+m416 5.32 700
+m416 5.32 710
+m416 5.32 720
+m416 5.32 730
+m416 5.32 740
+m416 5.32 750
+m416 5.32 760
+m416 5.32 770
+m416 5.32 780
+m416 5.32 790
+m416 5.32 800
+m416 5.32 810
+m416 5.32 820
+m416 5.32 830
+m416 5.32 840
+m416 3.07 0
+m416 3.07 10
+m416 3.07 20
+m416 3.07 30
+m416 3.07 40
+m416 3.07 50
+m416 3.07 60
+m416 3.07 70
+m416 3.07 80
+m416 3.07 90
+m416 3.07 100
+m416 3.07 110
+m416 3.07 120
+m416 3.07 130
+m416 3.07 140
+m416 3.7 150
+m416 3.7 160
+m416 3.7 170
+m416 3.7 180
+m416 3.7 190
+m416 3.7 200
+m416 3.7 210
+m416 3.7 220
+m416 3.7 230
+m416 3.7 240
+m416 4.3 250
+m416 4.3 260
+m416 4.3 270
+m416 4.3 280
+m416 4.3 290
+m416 4.3 300
+m416 4.3 310
+m416 4.3 320
+m416 4.3 330
+m416 4.3 340
+m416 4.61 350
+m416 4.61 360
+m416 4.61 370
+m416 4.61 380
+m416 4.61 390
+stand
+m416 4.61 400
+m416 4.61 410
+m416 4.61 420
+m416 4.61 430
+m416 4.61 440
+m416 4.61 450
+m416 4.61 460
+m416 4.61 470
+m416 4.92 480
+m416 4.92 490
+m416 4.92 500
+m416 4.92 510
+m416 4.92 520
+m416 4.92 530
+m416 4.92 540
+m416 5.07 550
+m416 5.07 560
+m416 5.07 570
+m416 5.07 580
+m416 5.07 590
+m416 5.07 600
+m416 5.07 610
+m416 5.07 620
+m416 5.07 630
+m416 5.07 640
+m416 5.32 650
+m416 5.32 660
+m416 5.32 670
+m416 5.32 680
+m416 5.32 690
+m416 5.32 700
+m416 5.32 710
+m416 5.32 720
+m416 5.32 730
+m416 5.32 740
+m416 5.32 750
+m416 5.32 760
+m416 5.32 770
+m416 5.32 780
+m416 5.32 790
+m416 5.32 800
+m416 5.32 810
+m416 5.32 820
+m416 5.32 830
+m416 5.32 840
+m416 5.32 850
+m416 5.32 860
+m416 5.32 870
+stand
+m416 5.32 880
+m416 5.32 890
+m416 5.32 900
+m416 5.32 910
+m416 5.32 920
+m416 5.32 930
+m416 5.32 940
+m416 5.32 950
+m416 5.32 960
+m416 5.32 970
+m416 5.32 980
+m416 5.32 990
+m416 5.32 1000
+m416 5.32 1010
+m416 5.32 1020
+m416 5.32 1030
+m416 5.32 1040
+m416 5.32 1050
+m416 5.32 1060
+m416 5.32 1070
+m416 5.32 1080
+m416 5.32 1090
+m416 5.32 1100
+m416 5.32 1110
+m416 5.32 1120
+m416 5.32 1130
+m416 5.32 1140
+m416 5.32 1150
+m416 5.32 1160
+m416 5.32 1170
+m416 5.32 1180
+m416 5.32 1190
+m416 5.32 1200
+m416 5.32 1210
+m416 5.32 1220
+m416 5.32 1230
+m416 3.07 0
+m416 3.07 10
+m416 3.07 20
+m416 3.07 30
+m416 3.07 40
+m416 3.07 50
+m416 3.07 60
+m416 3.07 70
+m416 3.07 80
+m416 3.07 90
+m416 3.07 100
+[<Weapon name:m416 muzzle:None foregrip:None>]
+m416 3.07 0
+m416 3.07 10
+m416 3.07 20
+m416 3.07 30
+m416 3.07 40
+m416 3.07 50
+stand
+m416 3.07 60
+m416 3.07 70
+m416 3.07 80
+m416 3.07 90
+m416 3.07 100
+m416 3.07 110
+m416 3.07 120
+m416 3.07 130
+m416 3.07 140
+m416 3.7 150
+m416 3.7 160
+m416 3.7 170
+m416 3.7 180
+m416 3.7 190
+m416 3.7 200
+m416 3.7 210
+m416 3.7 220
+m416 3.7 230
+m416 3.7 240
+m416 4.3 250
+m416 4.3 260
+m416 4.3 270
+m416 4.3 280
+m416 4.3 290
+m416 4.3 300
+m416 4.3 310
+m416 4.3 320
+m416 4.3 330
+m416 4.3 340
+m416 4.61 350
+m416 4.61 360
+m416 4.61 370
+m416 4.61 380
+m416 4.61 390
+m416 4.61 400
+m416 4.61 410
+m416 4.61 420
+m416 4.61 430
+m416 4.61 440
+m416 4.61 450
+m416 4.61 460
+m416 4.61 470
+m416 4.92 480
+m416 4.92 490
+m416 4.92 500
+m416 4.92 510
+m416 4.92 520
+m416 4.92 530
+stand
+m416 4.92 540
+m416 5.07 550
+m416 5.07 560
+m416 5.07 570
+m416 5.07 580
+m416 5.07 590
+m416 5.07 600
+m416 5.07 610
+m416 5.07 620
+m416 5.07 630
+m416 5.07 640
+m416 5.32 650
+m416 5.32 660
+m416 5.32 670
+m416 5.32 680
+m416 5.32 690
+m416 5.32 700
+m416 5.32 710
+m416 5.32 720
+m416 5.32 730
+m416 5.32 740
+m416 5.32 750
+m416 5.32 760
+m416 5.32 770
+m416 5.32 780
+m416 5.32 790
+m416 5.32 800
+m416 5.32 810
+m416 5.32 820
+m416 5.32 830
+m416 5.32 840
+m416 5.32 850
+m416 5.32 860
+m416 5.32 870
+m416 5.32 880
+m416 5.32 890
+m416 5.32 900
+m416 5.32 910
+m416 5.32 920
+m416 5.32 930
+m416 5.32 940
+m416 5.32 950
+m416 5.32 960
+m416 5.32 970
+m416 5.32 980
+m416 5.32 990
+m416 5.32 1000
+m416 5.32 1010
+stand
+m416 5.32 1020
+m416 5.32 1030
+m416 5.32 1040
+m416 5.32 1050
+m416 5.32 1060
+m416 5.32 1070
+m416 5.32 1080
+m416 5.32 1090
+m416 5.32 1100
+m416 5.32 1110
+m416 5.32 1120
+m416 5.32 1130
+m416 5.32 1140
+m416 5.32 1150
+m416 5.32 1160
+m416 5.32 1170
+m416 5.32 1180
+m416 5.32 1190
+m416 5.32 1200
+m416 5.32 1210
+m416 5.32 1220
+m416 5.32 1230
+m416 5.32 1240
+m416 5.32 1250
+m416 5.32 1260
+m416 5.32 1270
+m416 5.32 1280
+m416 5.32 1290
+m416 5.32 1300
+m416 5.32 1310
+m416 5.32 1320
+m416 5.32 1330
+m416 5.32 1340
+m416 5.32 1350
+m416 5.32 1360
+m416 5.32 1370
+m416 5.32 1380
+m416 5.32 1390
+m416 5.32 1400
+m416 5.32 1410
+m416 5.32 1420
+m416 5.32 1430
+m416 5.32 1440
+m416 5.32 1450
+m416 5.32 1460
+m416 5.32 1470
+m416 5.32 1480
+m416 5.32 1490
+stand
+m416 5.32 1500
+m416 5.32 1510
+m416 5.32 1520
+m416 5.32 1530
+m416 5.32 1540
+m416 5.32 1550
+m416 5.32 1560
+m416 5.32 1570
+m416 5.32 1580
+m416 5.32 1590
+m416 5.32 1600
+m416 5.32 1610
+m416 5.32 1620
+m416 5.32 1630
+m416 5.32 1640
+m416 5.32 1650
+m416 5.32 1660
+m416 5.32 1670
+m416 5.32 1680
+[<Weapon name:m416 muzzle:compensator foregrip:None>]
+[<Weapon name:m416 muzzle:compensator foregrip:None>]
+[<Weapon name:m416 muzzle:compensator foregrip:None>]
+[<Weapon name:m416 muzzle:None foregrip:None>]
+[<Weapon name:akm muzzle:compensator foregrip:None>]
+[<Weapon name:akm muzzle:compensator foregrip:None>]
+[<Weapon name:akm muzzle:compensator foregrip:None>]
+[<Weapon name:akm muzzle:None foregrip:None>]
+akm 3.07 0
+akm 3.07 10
+akm 3.07 20
+akm 3.07 30
+akm 3.07 40
+akm 3.07 50
+akm 3.07 60
+akm 3.07 70
+akm 3.07 80
+akm 3.07 90
+akm 3.07 100
+akm 3.07 110
+akm 3.07 120
+akm 3.07 130
+akm 3.07 140
+akm 3.7 150
+akm 3.7 160
+akm 3.7 170
+[<Weapon name:akm muzzle:compensator foregrip:None>]
+akm 3.07 0
+akm 3.07 10
+akm 3.07 20
+akm 3.07 30
+akm 3.07 40
+sitakm 3.07 50
+
+akm 3.07 60
+akm 3.07 70
+akm 3.07 80
+akm 3.07 90
+akm 3.07 0
+akm 3.07 10
+akm 3.07 20
+akm 3.07 30
+akm 3.07 40
+akm 3.07 50
+akm 3.07 60
+akm 3.07 70
+akm 3.07 80
+akm 3.07 90
+akm 3.07 100
+akm 3.07 110
+akm 3.07 120
+akm 3.07 130
+akm 3.07 140
+akm 3.07 0
+akm 3.07 10
+akm 3.07 20
+akm 3.07 30
+akm 3.07 40
+akm 3.07 50
+akm 3.07 60
+akm 3.07 70
+akm 3.07 80
+akm 3.07 0
+akm 3.07 10
+akm 3.07 20
+akm 3.07 30
+akm 3.07 40
+akm 3.07 50
+akm 3.07 60
+akm 3.07 70
+akm 3.07 80
+akm 3.07 0
+akm 3.07 10
+akm 3.07 20
+akm 3.07 30
+akm 3.07 40
+akm 3.07 50
+akm 3.07 60
+akm 3.07 70
+akm 3.07 80
+akm 3.07 90
+akm 3.07 100
+akm 3.07 110
+akm 3.07 0
+akm 3.07 10
+akm 3.07 20
+akm 3.07 30
+akm 3.07 40
+akm 3.07 50
+akm 3.07 60
+akm 3.07 70
+akm 3.07 80
+akm 3.07 90
+akm 3.07 100
+akm 3.07 110
+akm 3.07 120
+akm 3.07 130
+akm 3.07 140
+akm 3.7 150
+akm 3.7 160
+akm 3.7 170
+akm 3.7 180
+akm 3.7 190
+akm 3.7 200
+akm 3.7 210
+akm 3.7 220
+akm 3.7 230
+akm 3.7 240
+akm 4.3 250
+akm 4.3 260
+akm 4.3 270
+sit
+akm 4.3 280
+akm 4.3 290
+akm 4.3 300
+akm 4.3 310
+akm 4.3 320
+akm 4.3 330
+akm 4.3 340
+akm 4.61 350
+akm 4.61 360
+akm 4.61 370
+akm 4.61 380
+akm 4.61 390
+akm 4.61 400
+akm 4.61 410
+akm 4.61 420
+akm 4.61 430
+akm 4.61 440
+akm 4.61 450
+akm 4.61 460
+akm 4.61 470
+akm 4.92 480
+akm 4.92 490
+akm 4.92 500
+akm 4.92 510
+akm 4.92 520
+akm 4.92 530
+akm 4.92 540
+akm 5.07 550
+akm 5.07 560
+akm 5.07 570
+akm 5.07 580
+akm 5.07 590
+akm 5.07 600
+akm 5.07 610
+akm 5.07 620
+akm 5.07 630
+akm 5.07 640
+akm 5.32 650
+akm 5.32 660
+akm 5.32 670
+akm 5.32 680
+akm 5.32 690
+akm 5.32 700
+akm 5.32 710
+akm 5.32 720
+akm 5.32 730
+akm 5.32 740
+sit
+akm 5.32 750
+akm 5.32 760
+akm 5.32 770
+akm 5.32 780
+akm 5.32 790
+akm 5.32 800
+akm 5.32 810
+akm 5.32 820
+akm 5.32 830
+akm 5.32 840
+akm 5.32 850
+akm 5.32 860
+akm 5.32 870
+akm 5.32 880
+akm 5.32 890
+akm 5.32 900
+akm 5.32 910
+akm 5.32 920
+akm 5.32 930
+akm 5.32 940
+akm 5.32 950
+akm 5.32 960
+akm 5.32 970
+akm 5.32 980
+akm 5.32 990
+akm 5.32 1000
+akm 5.32 1010
+akm 5.32 1020
+akm 5.32 1030
+akm 5.32 1040
+akm 5.32 1050
+akm 5.32 1060
+akm 5.32 1070
+akm 5.32 1080
+akm 5.32 1090
+akm 5.32 1100
+akm 5.32 1110
+akm 5.32 1120
+akm 5.32 1130
+[<Weapon name:akm muzzle:compensator foregrip:None>]
+[<Weapon name:akm muzzle:compensator foregrip:None>]
+[<Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:akm muzzle:None foregrip:None>]
+akm 3.07 0
+akm 3.07 10
+akm 3.07 20
+akm 3.07 30
+akm 3.07 40
+akm 3.07 50
+akm 3.07 60
+akm 3.07 70
+akm 3.07 80
+akm 3.07 90
+akm 3.07 100
+akm 3.07 110
+akm 3.07 120
+akm 3.07 130
+akm 3.07 140
+akm 3.7 150
+akm 3.7 160
+sitakm 3.7 170
+
+akm 3.7 180
+akm 3.7 190
+akm 3.7 200
+akm 3.7 210
+akm 3.7 220
+akm 3.7 230
+akm 3.7 240
+akm 4.3 250
+akm 4.3 260
+akm 4.3 270
+akm 4.3 280
+akm 4.3 290
+akm 4.3 300
+akm 4.3 310
+akm 4.3 320
+akm 4.3 330
+akm 4.3 340
+akm 4.61 350
+akm 4.61 360
+akm 4.61 370
+akm 4.61 380
+akm 4.61 390
+akm 4.61 400
+akm 4.61 410
+akm 4.61 420
+akm 4.61 430
+akm 4.61 440
+akm 4.61 450
+akm 4.61 460
+akm 4.61 470
+akm 4.92 480
+akm 4.92 490
+akm 4.92 500
+akm 4.92 510
+akm 4.92 520
+akm 4.92 530
+akm 4.92 540
+akm 5.07 550
+akm 5.07 560
+akm 5.07 570
+akm 5.07 580
+akm 5.07 590
+akm 5.07 600
+akm 5.07 610
+akm 5.07 620
+akm 5.07 630
+akm 5.07 640
+sitakm 5.32 650
+
+akm 5.32 660
+akm 5.32 670
+akm 5.32 680
+akm 5.32 690
+akm 5.32 700
+akm 5.32 710
+akm 5.32 720
+akm 5.32 730
+akm 5.32 740
+akm 5.32 750
+akm 5.32 760
+akm 5.32 770
+akm 5.32 780
+akm 5.32 790
+akm 5.32 800
+akm 5.32 810
+akm 5.32 820
+akm 5.32 830
+akm 5.32 840
+akm 5.32 850
+akm 5.32 860
+akm 5.32 870
+akm 5.32 880
+akm 5.32 890
+akm 5.32 900
+akm 5.32 910
+akm 5.32 920
+akm 5.32 930
+akm 5.32 940
+akm 5.32 950
+akm 5.32 960
+akm 5.32 970
+akm 5.32 980
+akm 5.32 990
+akm 5.32 1000
+akm 5.32 1010
+akm 5.32 1020
+akm 3.07 0
+akm 3.07 10
+akm 3.07 20
+akm 3.07 30
+akm 3.07 40
+akm 3.07 50
+akm 3.07 60
+akm 3.07 70
+akm 3.07 80
+akm 3.07 90
+sit
+akm 3.07 100
+akm 3.07 110
+akm 3.07 120
+akm 3.07 130
+akm 3.07 140
+akm 3.7 150
+akm 3.7 160
+akm 3.7 170
+akm 3.7 180
+akm 3.7 190
+akm 3.7 200
+akm 3.7 210
+akm 3.7 220
+akm 3.7 230
+akm 3.7 240
+akm 4.3 250
+akm 4.3 260
+akm 4.3 270
+akm 4.3 280
+akm 4.3 290
+akm 4.3 300
+akm 4.3 310
+akm 4.3 320
+akm 4.3 330
+akm 4.3 340
+akm 4.61 350
+akm 4.61 360
+akm 4.61 370
+akm 4.61 380
+akm 4.61 390
+akm 4.61 400
+akm 4.61 410
+akm 4.61 420
+akm 4.61 430
+akm 4.61 440
+akm 4.61 450
+akm 4.61 460
+akm 4.61 470
+akm 4.92 480
+akm 4.92 490
+akm 4.92 500
+akm 4.92 510
+akm 4.92 520
+akm 4.92 530
+akm 4.92 540
+akm 5.07 550
+akm 5.07 560
+sit
+akm 5.07 570
+akm 5.07 580
+akm 5.07 590
+akm 5.07 600
+akm 5.07 610
+akm 5.07 620
+akm 5.07 630
+akm 5.07 640
+akm 5.32 650
+akm 5.32 660
+akm 5.32 670
+akm 5.32 680
+akm 5.32 690
+akm 5.32 700
+akm 5.32 710
+akm 5.32 720
+akm 5.32 730
+akm 5.32 740
+akm 5.32 750
+akm 5.32 760
+akm 5.32 770
+akm 5.32 780
+akm 5.32 790
+akm 5.32 800
+akm 5.32 810
+akm 5.32 820
+akm 5.32 830
+akm 5.32 840
+akm 5.32 850
+akm 5.32 860
+akm 5.32 870
+akm 5.32 880
+akm 5.32 890
+akm 5.32 900
+akm 5.32 910
+akm 5.32 920
+akm 5.32 930
+akm 5.32 940
+akm 5.32 950
+akm 5.32 960
+akm 5.32 970
+akm 5.32 980
+akm 5.32 990
+akm 5.32 1000
+akm 5.32 1010
+akm 5.32 1020
+akm 5.32 1030
+sitakm 5.32 1040
+
+akm 5.32 1050
+akm 5.32 1060
+akm 5.32 1070
+akm 5.32 1080
+akm 5.32 1090
+akm 5.32 1100
+akm 5.32 1110
+akm 5.32 1120
+akm 5.32 1130
+akm 5.32 1140
+akm 5.32 1150
+akm 5.32 1160
+akm 5.32 1170
+akm 5.32 1180
+akm 5.32 1190
+akm 5.32 1200
+akm 5.32 1210
+akm 5.32 1220
+akm 5.32 1230
+akm 5.32 1240
+akm 5.32 1250
+akm 5.32 1260
+akm 5.32 1270
+akm 5.32 1280
+akm 5.32 1290
+akm 5.32 1300
+akm 5.32 1310
+akm 5.32 1320
+akm 5.32 1330
+akm 5.32 1340
+akm 5.32 1350
+akm 5.32 1360
+akm 5.32 1370
+akm 5.32 1380
+akm 5.32 1390
+akm 5.32 1400
+akm 5.32 1410
+akm 3.07 0
+akm 3.07 10
+akm 3.07 20
+akm 3.07 30
+akm 3.07 40
+akm 3.07 50
+akm 3.07 60
+akm 3.07 70
+akm 3.07 80
+akm 3.07 90
+akm 3.07 100
+akm 3.07 110
+akm 3.07 120
+akm 3.07 130
+akm 3.07 140
+akm 3.7 150
+akm 3.7 160
+akm 3.7 170
+akm 3.7 180
+akm 3.7 190
+akm 3.7 200
+akm 3.7 210
+akm 3.7 220
+akm 3.7 230
+akm 3.7 240
+akm 4.3 250
+akm 4.3 260
+akm 4.3 270
+akm 4.3 280
+akm 4.3 290
+akm 4.3 300
+akm 4.3 310
+akm 4.3 320
+akm 4.3 330
+akm 4.3 340
+akm 4.61 350
+akm 4.61 360
+akm 4.61 370
+akm 4.61 380
+akm 4.61 390
+akm 4.61 400
+akm 4.61 410
+akm 4.61 420
+akm 4.61 430
+sit
+akm 4.61 440
+akm 4.61 450
+akm 4.61 460
+akm 4.61 470
+akm 4.92 480
+akm 4.92 490
+akm 4.92 500
+akm 4.92 510
+akm 4.92 520
+akm 4.92 530
+akm 4.92 540
+akm 5.07 550
+akm 5.07 560
+akm 5.07 570
+akm 5.07 580
+akm 5.07 590
+akm 5.07 600
+akm 5.07 610
+akm 5.07 620
+akm 5.07 630
+akm 5.07 640
+akm 5.32 650
+akm 5.32 660
+akm 5.32 670
+akm 5.32 680
+akm 5.32 690
+akm 5.32 700
+akm 5.32 710
+akm 5.32 720
+akm 5.32 730
+akm 5.32 740
+akm 5.32 750
+akm 5.32 760
+akm 5.32 770
+akm 5.32 780
+akm 5.32 790
+akm 5.32 800
+akm 5.32 810
+akm 5.32 820
+akm 5.32 830
+akm 5.32 840
+akm 5.32 850
+akm 5.32 860
+akm 5.32 870
+akm 5.32 880
+akm 5.32 890
+akm 5.32 900
+sit
+akm 5.32 910
+akm 5.32 920
+akm 5.32 930
+akm 5.32 940
+akm 5.32 950
+akm 5.32 960
+akm 5.32 970
+akm 5.32 980
+akm 5.32 990
+akm 5.32 1000
+akm 5.32 1010
+akm 5.32 1020
+akm 5.32 1030
+akm 5.32 1040
+akm 5.32 1050
+akm 5.32 1060
+akm 5.32 1070
+akm 5.32 1080
+akm 5.32 1090
+akm 5.32 1100
+akm 5.32 1110
+akm 5.32 1120
+akm 5.32 1130
+akm 5.32 1140
+akm 5.32 1150
+akm 5.32 1160
+akm 5.32 1170
+akm 5.32 1180
+akm 5.32 1190
+akm 5.32 1200
+akm 5.32 1210
+akm 5.32 1220
+akm 5.32 1230
+akm 5.32 1240
+akm 5.32 1250
+akm 5.32 1260
+akm 5.32 1270
+akm 5.32 1280
+akm 5.32 1290
+akm 5.32 1300
+akm 5.32 1310
+akm 5.32 1320
+akm 5.32 1330
+akm 5.32 1340
+akm 5.32 1350
+akm 5.32 1360
+akm 5.32 1370
+akm 5.32 1380
+sit
+akm 5.32 1390
+akm 5.32 1400
+akm 5.32 1410
+akm 5.32 1420
+akm 5.32 1430
+akm 5.32 1440
+akm 5.32 1450
+akm 5.32 1460
+akm 5.32 1470
+akm 5.32 1480
+akm 5.32 1490
+akm 5.32 1500
+akm 5.32 1510
+akm 5.32 1520
+akm 5.32 1530
+akm 5.32 1540
+akm 5.32 1550
+akm 5.32 1560
+akm 5.32 1570
+akm 5.32 1580
+akm 5.32 1590
+akm 5.32 1600
+akm 5.32 1610
+akm 5.32 1620
+akm 5.32 1630
+akm 5.32 1640
+akm 5.32 1650
+akm 5.32 1660
+akm 5.32 1670
+akm 5.32 1680
+akm 5.32 1690
+akm 5.32 1700
+akm 5.32 1710
+akm 5.32 1720
+akm 5.32 1730
+akm 5.32 1740
+akm 5.32 1750
+akm 5.32 1760
+akm 5.32 1770
+akm 5.32 1780
+akm 5.32 1790
+akm 5.32 1800
+akm 5.32 1810
+akm 5.32 1820
+akm 5.32 1830
+akm 5.32 1840
+akm 5.32 1850
+sit
+akm 5.32 1860
+akm 5.32 1870
+akm 5.32 1880
+akm 5.32 1890
+akm 5.32 1900
+akm 5.32 1910
+akm 5.32 1920
+akm 5.32 1930
+akm 5.32 1940
+akm 5.32 1950
+akm 5.32 1960
+akm 5.32 1970
+akm 5.32 1980
+akm 5.32 1990
+akm 5.32 2000
+akm 5.32 2010
+akm 5.32 2020
+akm 5.32 2030
+akm 5.32 2040
+akm 5.32 2050
+akm 5.32 2060
+akm 5.32 2070
+akm 5.32 2080
+akm 5.32 2090
+akm 5.32 2100
+akm 5.32 2110
+akm 5.32 2120
+akm 5.32 2130
+akm 5.32 2140
+akm 5.32 2150
+akm 5.32 2160
+akm 5.32 2170
+akm 5.32 2180
+akm 5.32 2190
+akm 5.32 2200
+akm 5.32 2210
+akm 5.32 2220
+akm 5.32 2230
+akm 5.32 2240
+akm 5.32 2250
+akm 5.32 2260
+akm 5.32 2270
+akm 5.32 2280
+akm 5.32 2290
+akm 5.32 2300
+akm 5.32 2310
+akm 5.32 2320
+akm 5.32 2330
+sit
+akm 5.32 2340
+akm 5.32 2350
+akm 5.32 2360
+akm 5.32 2370
+akm 5.32 2380
+akm 5.32 2390
+akm 5.32 2400
+akm 5.32 2410
+akm 5.32 2420
+akm 5.32 2430
+akm 5.32 2440
+akm 5.32 2450
+akm 5.32 2460
+akm 5.32 2470
+akm 5.32 2480
+akm 5.32 2490
+akm 5.32 2500
+akm 5.32 2510
+akm 5.32 2520
+akm 5.32 2530
+akm 5.32 2540
+akm 5.32 2550
+akm 5.32 2560
+akm 5.32 2570
+akm 5.32 2580
+akm 5.32 2590
+akm 5.32 2600
+akm 5.32 2610
+akm 5.32 2620
+akm 5.32 2630
+akm 5.32 2640
+akm 5.32 2650
+akm 5.32 2660
+akm 5.32 2670
+akm 5.32 2680
+akm 5.32 2690
+akm 5.32 2700
+akm 5.32 2710
+akm 5.32 2720
+akm 5.32 2730
+akm 5.32 2740
+akm 5.32 2750
+akm 5.32 2760
+akm 5.32 2770
+akm 5.32 2780
+akm 5.32 2790
+akm 5.32 2800
+akm 5.32 2810
+sit
+akm 5.32 2820
+akm 5.32 2830
+akm 5.32 2840
+akm 5.32 2850
+akm 5.32 2860
+akm 5.32 2870
+akm 5.32 2880
+akm 3.07 0
+akm 3.07 10
+akm 3.07 20
+akm 3.07 30
+akm 3.07 40
+akm 3.07 50
+akm 3.07 60
+akm 3.07 70
+akm 3.07 80
+akm 3.07 90
+akm 3.07 100
+akm 3.07 110
+akm 3.07 120
+akm 3.07 130
+akm 3.07 140
+akm 3.7 150
+akm 3.7 160
+akm 3.7 170
+akm 3.7 180
+akm 3.7 190
+akm 3.7 200
+akm 3.7 210
+akm 3.7 220
+akm 3.7 230
+akm 3.7 240
+akm 4.3 250
+akm 4.3 260
+akm 4.3 270
+akm 4.3 280
+akm 4.3 290
+sit
+akm 4.3 300
+akm 4.3 310
+akm 4.3 320
+akm 4.3 330
+akm 4.3 340
+akm 4.61 350
+akm 4.61 360
+akm 4.61 370
+akm 4.61 380
+akm 4.61 390
+akm 4.61 400
+akm 4.61 410
+akm 4.61 420
+akm 4.61 430
+akm 4.61 440
+akm 4.61 450
+akm 4.61 460
+akm 4.61 470
+akm 4.92 480
+akm 4.92 490
+akm 4.92 500
+akm 4.92 510
+akm 4.92 520
+akm 4.92 530
+akm 4.92 540
+akm 5.07 550
+akm 5.07 560
+akm 5.07 570
+akm 5.07 580
+akm 5.07 590
+akm 3.07 0
+akm 3.07 10
+akm 3.07 20
+akm 3.07 30
+akm 3.07 40
+akm 3.07 50
+akm 3.07 60
+akm 3.07 70
+akm 3.07 80
+akm 3.07 90
+sit
+akm 3.07 100
+akm 3.07 110
+akm 3.07 120
+akm 3.07 130
+akm 3.07 0
+akm 3.07 10
+akm 3.07 20
+akm 3.07 30
+akm 3.07 40
+akm 3.07 50
+akm 3.07 60
+akm 3.07 70
+akm 3.07 80
+akm 3.07 90
+akm 3.07 100
+akm 3.07 110
+akm 3.07 0
+akm 3.07 10
+akm 3.07 20
+akm 3.07 30
+akm 3.07 40
+akm 3.07 50
+akm 3.07 60
+akm 3.07 70
+akm 3.07 80
+akm 3.07 90
+akm 3.07 100
+akm 3.07 110
+akm 3.07 0
+akm 3.07 10
+akm 3.07 20
+akm 3.07 30
+akm 3.07 40
+akm 3.07 50
+akm 3.07 60
+akm 3.07 70
+akm 3.07 80
+akm 3.07 90
+akm 3.07 100
+akm 3.07 110
+akm 3.07 120
+akm 3.07 130
+akm 3.07 140
+akm 3.7 150
+akm 3.7 160
+akm 3.7 170
+akm 3.7 180
+akm 3.7 190
+akm 3.7 200
+akm 3.7 210
+akm 3.7 220
+akm 3.7 230
+akm 3.7 240
+akm 4.3 250
+akm 4.3 260
+akm 4.3 270
+akm 4.3 280
+akm 4.3 290
+akm 4.3 300
+akm 4.3 310
+akm 3.07 0
+akm 3.07 10
+akm 3.07 20
+akm 3.07 30
+akm 3.07 40
+akm 3.07 50
+akm 3.07 60
+akm 3.07 70
+akm 3.07 80
+akm 3.07 90
+akm 3.07 100
+akm 3.07 110
+akm 3.07 120
+akm 3.07 130
+akm 3.07 140
+akm 3.7 150
+akm 3.7 160
+akm 3.7 170
+akm 3.7 180
+akm 3.7 190
+akm 3.7 200
+akm 3.7 210
+akm 3.7 220
+akm 3.7 230
+akm 3.7 240
+akm 4.3 250
+akm 4.3 260
+akm 4.3 270
+akm 4.3 280
+akm 4.3 290
+akm 4.3 300
+akm 4.3 310
+akm 4.3 320
+akm 4.3 330
+akm 4.3 340
+akm 4.61 350
+akm 4.61 360
+akm 4.61 370
+akm 4.61 380
+akm 4.61 390
+akm 4.61 400
+akm 4.61 410
+akm 4.61 420
+akm 4.61 430
+akm 4.61 440
+akm 4.61 450
+akm 4.61 460
+sit
+akm 4.61 470
+akm 4.92 480
+akm 4.92 490
+akm 4.92 500
+akm 4.92 510
+akm 4.92 520
+akm 4.92 530
+akm 4.92 540
+akm 5.07 550
+akm 5.07 560
+akm 5.07 570
+akm 5.07 580
+akm 5.07 590
+akm 5.07 600
+akm 5.07 610
+[<Weapon name:akm muzzle:None foregrip:None>]
+stand
+stand
+stand
+stand
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+stand
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+stand
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+stand
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+stand
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 14 400
+beryl 14 410
+beryl 14 420
+beryl 14 430
+beryl 14 440
+beryl 14 450
+beryl 14 460
+beryl 14 470
+beryl 14 480
+beryl 14 490
+beryl 14 500
+beryl 14 510
+beryl 14 520
+beryl 14 530
+beryl 14 540
+beryl 14 550
+beryl 14 560
+beryl 14 570
+beryl 14 580
+standberyl 14 590
+
+beryl 14 600
+beryl 14 610
+beryl 14 620
+beryl 14 630
+beryl 14 640
+beryl 14 650
+beryl 14 660
+beryl 14 670
+beryl 14 680
+beryl 14 690
+beryl 14 700
+beryl 14 710
+beryl 14 720
+beryl 14 730
+beryl 14 740
+beryl 14 750
+beryl 14 760
+beryl 14 770
+beryl 14 780
+beryl 14 790
+beryl 14 800
+beryl 14 810
+beryl 14 820
+beryl 14 830
+stand
+beryl 14 840
+beryl 14 850
+beryl 14 860
+beryl 14 870
+beryl 14 880
+beryl 14 890
+beryl 14 900
+beryl 14 910
+beryl 14 920
+beryl 14 930
+beryl 14 940
+beryl 14 950
+beryl 14 960
+beryl 14 970
+beryl 14 980
+beryl 14 990
+beryl 14 1000
+beryl 14 1010
+beryl 14 1020
+beryl 14 1030
+beryl 14 1040
+beryl 14 1050
+beryl 14 1060
+beryl 14 1070
+beryl 14 1080
+stand
+beryl 14 1090
+beryl 14 1100
+beryl 14 1110
+beryl 14 1120
+beryl 14 1130
+beryl 14 1140
+beryl 14 1150
+beryl 14 1160
+beryl 14 1170
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+stand
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+stand
+beryl 14 380
+beryl 14 390
+beryl 14 400
+beryl 14 410
+beryl 14 420
+beryl 14 430
+beryl 14 440
+beryl 14 450
+beryl 14 460
+beryl 14 470
+beryl 14 480
+beryl 14 490
+beryl 14 500
+beryl 14 510
+beryl 14 520
+beryl 14 530
+beryl 14 540
+beryl 14 550
+beryl 14 560
+beryl 14 570
+beryl 14 580
+beryl 14 590
+beryl 14 600
+beryl 14 610
+stand
+beryl 14 620
+beryl 14 630
+beryl 14 640
+beryl 14 650
+beryl 14 660
+beryl 14 670
+beryl 14 680
+beryl 14 690
+beryl 14 700
+beryl 14 710
+beryl 14 720
+beryl 14 730
+beryl 14 740
+beryl 14 750
+beryl 14 760
+beryl 14 770
+beryl 14 780
+beryl 14 790
+beryl 14 800
+beryl 14 810
+beryl 14 820
+beryl 14 830
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+stand
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+stand
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 0
+beryl 9 10
+[]
+[]
+[]
+[]
+sit
+sit
+sit
+sit
+Something problem while update bullets left
+sit
+sit
+[]
+[]
+[<Weapon name:vector muzzle:None foregrip:None>]
+[<Weapon name:vector muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+sit
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+stand
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+stand
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+stand
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 14 400
+beryl 14 410
+beryl 14 420
+beryl 14 430
+beryl 14 440
+beryl 14 450
+beryl 14 460
+beryl 14 470
+beryl 14 480
+beryl 14 490
+beryl 14 500
+beryl 14 510
+beryl 14 520
+beryl 14 530
+beryl 14 540
+beryl 14 550
+beryl 14 560
+beryl 14 570
+sit
+beryl 14 580
+beryl 14 590
+beryl 14 600
+beryl 14 610
+beryl 14 620
+beryl 14 630
+beryl 14 640
+beryl 14 650
+beryl 14 660
+beryl 14 670
+beryl 14 680
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+stand
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+stand
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+stand
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+stand
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 0
+beryl 9 10
+beryl 9 20
+stand
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+stand
+beryl 9 230
+beryl 9 240
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+stand
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 14 400
+beryl 14 410
+beryl 14 420
+stand
+beryl 14 430
+beryl 14 440
+beryl 14 450
+beryl 14 460
+beryl 14 470
+beryl 14 480
+beryl 14 490
+beryl 14 500
+beryl 14 510
+beryl 14 520
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+stand
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+stand
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 14 400
+beryl 14 410
+beryl 14 420
+beryl 14 430
+beryl 14 440
+beryl 14 450
+stand
+beryl 14 460
+beryl 14 470
+beryl 14 480
+beryl 14 490
+beryl 14 500
+beryl 14 510
+beryl 14 520
+beryl 14 530
+beryl 14 540
+beryl 14 550
+beryl 14 560
+beryl 14 570
+beryl 14 580
+beryl 14 590
+beryl 14 600
+beryl 14 610
+beryl 14 620
+beryl 14 630
+beryl 14 640
+beryl 14 650
+beryl 14 660
+beryl 14 670
+beryl 14 680
+beryl 14 690
+beryl 14 700
+beryl 14 710
+stand
+beryl 14 720
+beryl 14 730
+beryl 14 740
+beryl 14 750
+beryl 14 760
+beryl 14 770
+beryl 14 780
+beryl 14 790
+beryl 14 800
+beryl 14 810
+beryl 14 820
+beryl 14 830
+beryl 14 840
+beryl 14 850
+beryl 14 860
+beryl 14 870
+beryl 14 880
+beryl 14 890
+beryl 14 900
+beryl 14 910
+beryl 14 920
+beryl 14 930
+beryl 14 940
+beryl 14 950
+beryl 14 960
+stand
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+sit
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+stand
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 14 400
+beryl 14 410
+beryl 14 420
+beryl 14 430
+beryl 14 440
+beryl 14 450
+beryl 14 460
+stand
+beryl 14 470
+beryl 14 480
+beryl 14 490
+beryl 14 500
+beryl 14 510
+beryl 14 520
+beryl 14 530
+beryl 14 540
+beryl 14 550
+beryl 14 560
+beryl 14 570
+beryl 14 580
+beryl 14 590
+beryl 9 0
+beryl 9 10
+sit
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+sit
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+sit
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 14 400
+beryl 14 410
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+sit
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 14 400
+beryl 14 410
+beryl 14 420
+beryl 14 430
+beryl 14 440
+beryl 14 450
+beryl 14 460
+beryl 14 470
+beryl 14 480
+sit
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+sit
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+sit
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+stand
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+stand
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 14 400
+beryl 14 410
+beryl 14 420
+beryl 14 430
+beryl 14 440
+beryl 14 450
+beryl 14 460
+beryl 14 470
+beryl 14 480
+beryl 14 490
+beryl 14 500
+beryl 14 510
+beryl 14 520
+beryl 14 530
+beryl 9 0
+beryl 9 10
+stand
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+stand
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 14 400
+beryl 14 410
+beryl 14 420
+beryl 14 430
+beryl 14 440
+beryl 14 450
+beryl 14 460
+beryl 14 470
+beryl 14 480
+beryl 14 490
+beryl 14 500
+stand
+beryl 14 510
+beryl 14 520
+beryl 14 530
+beryl 14 540
+beryl 14 550
+beryl 14 560
+beryl 14 570
+beryl 14 580
+beryl 14 590
+beryl 14 600
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 0
+beryl 9 10
+stand
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+stand
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+stand
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+stand
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 14 400
+beryl 14 410
+beryl 14 420
+beryl 14 430
+beryl 14 440
+beryl 14 450
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+stand
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+stand
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+stand
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+stand
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+stand
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 14 400
+beryl 14 410
+beryl 14 420
+beryl 14 430
+beryl 14 440
+beryl 14 450
+beryl 14 460
+beryl 14 470
+stand
+beryl 14 480
+beryl 14 490
+beryl 14 500
+beryl 14 510
+beryl 14 520
+beryl 14 530
+beryl 14 540
+beryl 14 550
+beryl 14 560
+beryl 14 570
+beryl 14 580
+beryl 14 590
+beryl 14 600
+beryl 14 610
+beryl 14 620
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+stand
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+stand
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 14 400
+beryl 14 410
+beryl 14 420
+beryl 14 430
+beryl 14 440
+beryl 14 450
+beryl 14 460
+beryl 14 470
+beryl 14 480
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+stand
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 14 400
+beryl 14 410
+beryl 14 420
+beryl 14 430
+beryl 14 440
+stand
+beryl 14 450
+beryl 14 460
+beryl 14 470
+beryl 14 480
+beryl 14 490
+beryl 14 500
+beryl 14 510
+beryl 14 520
+beryl 14 530
+beryl 14 540
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:qbz muzzle:None foregrip:None>, <Weapon name:vector muzzle:None foregrip:None>]
+[<Weapon name:aug muzzle:None foregrip:None>, <Weapon name:vector muzzle:None foregrip:None>]
+[<Weapon name:aug muzzle:None foregrip:None>, <Weapon name:vector muzzle:None foregrip:None>]
+[<Weapon name:aug muzzle:None foregrip:None>, <Weapon name:vector muzzle:None foregrip:None>]
+[<Weapon name:aug muzzle:None foregrip:None>]
+aug 4.3 0
+aug 4.3 10
+aug 4.3 20
+aug 4.3 30
+aug 4.3 40
+aug 4.61 50
+aug 4.61 60
+aug 4.61 70
+aug 4.61 80
+aug 4.61 90
+aug 4.61 100
+aug 4.61 110
+aug 4.61 120
+aug 4.61 130
+aug 4.61 140
+aug 4.92 150stand
+
+aug 4.92 160
+aug 4.92 170
+aug 6.15 180
+aug 6.15 190
+aug 6.76 200
+aug 6.76 210
+aug 7.38 220
+aug 7.38 230
+aug 7.38 240
+aug 8 250
+aug 8 260
+aug 8 270
+aug 8.46 280
+aug 8.46 290
+aug 8.92 300
+aug 8.92 310
+aug 8.92 320
+aug 8.92 330
+aug 8.92 340
+aug 8.92 350
+aug 8.92 360
+aug 8.92 370
+aug 8.92 380
+aug 8.92 390
+stand
+aug 8 400
+aug 8 410
+aug 8 420
+aug 8 430
+[<Weapon name:aug muzzle:None foregrip:None>]
+[<Weapon name:aug muzzle:None foregrip:None>]
+[<Weapon name:aug muzzle:None foregrip:vertical>]
+[<Weapon name:aug muzzle:None foregrip:vertical>]
+[<Weapon name:aug muzzle:None foregrip:vertical>]
+[<Weapon name:aug muzzle:None foregrip:vertical>]
+[<Weapon name:aug muzzle:None foregrip:vertical>]
+[<Weapon name:aug muzzle:None foregrip:vertical>]
+[<Weapon name:aug muzzle:None foregrip:vertical>]
+[<Weapon name:aug muzzle:None foregrip:vertical>]
+[<Weapon name:aug muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+stand
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 0
+beryl 9 10
+stand
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+sit
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 14 400
+beryl 14 410
+beryl 14 420
+beryl 14 430
+beryl 14 440
+beryl 14 450
+beryl 14 460
+beryl 14 470
+beryl 14 480
+beryl 14 490
+beryl 14 500
+stand
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>, <Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>, <Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>, <Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>, <Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>, <Weapon name:akm muzzle:None foregrip:None>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+stand
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+stand
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 14 400
+beryl 14 410
+beryl 14 420
+beryl 14 430
+beryl 14 440
+beryl 14 450
+beryl 14 460
+beryl 14 470
+beryl 14 480
+beryl 14 490
+beryl 14 500
+beryl 14 510
+beryl 14 520
+beryl 14 530
+beryl 14 540
+beryl 14 550
+beryl 14 560
+beryl 14 570
+beryl 14 580
+beryl 14 590
+stand
+beryl 14 600
+beryl 14 610
+beryl 14 620
+beryl 14 630
+beryl 14 640
+beryl 14 650
+beryl 14 660
+beryl 14 670
+beryl 14 680
+beryl 14 690
+beryl 14 700
+beryl 14 710
+beryl 14 720
+beryl 14 730
+beryl 14 740
+beryl 14 750
+beryl 14 760
+beryl 14 770
+beryl 14 780
+beryl 14 790
+beryl 14 800
+[<Weapon name:beryl muzzle:None foregrip:vertical>, <Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>, <Weapon name:akm muzzle:None foregrip:None>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+stand
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+stand
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+stand
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+stand
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+stand
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+stand
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+[<Weapon name:beryl muzzle:None foregrip:vertical>, <Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>, <Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>, <Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:None>, <Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>, <Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>, <Weapon name:akm muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>, <Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>, <Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>, <Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>, <Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+sit
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 14 400
+beryl 14 410
+sit
+beryl 14 420
+beryl 14 430
+beryl 14 440
+beryl 14 450
+beryl 14 460
+beryl 14 470
+beryl 14 480
+beryl 14 490
+beryl 14 500
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+stand
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+sit
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 14 400
+beryl 14 410
+beryl 14 420
+beryl 14 430
+beryl 14 440
+beryl 14 450
+beryl 14 460
+beryl 14 470
+beryl 14 480
+beryl 14 490
+beryl 14 500
+beryl 14 510
+beryl 14 520
+beryl 14 530
+beryl 14 540
+beryl 14 550
+stand
+beryl 14 560
+beryl 14 570
+beryl 14 580
+beryl 14 590
+beryl 14 600
+beryl 14 610
+beryl 14 620
+beryl 14 630
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+stand
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+sit
+beryl 14 390
+beryl 14 400
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+sit
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+sit
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 14 400
+beryl 14 410
+beryl 14 420
+beryl 14 430
+beryl 14 440
+beryl 14 450
+beryl 14 460
+beryl 14 470
+beryl 14 480
+beryl 14 490
+beryl 14 500
+beryl 14 510
+beryl 14 520
+beryl 14 530
+beryl 14 540
+beryl 14 550
+beryl 14 560
+beryl 14 570
+beryl 14 580
+sit
+beryl 14 590
+beryl 14 600
+beryl 14 610
+beryl 14 620
+beryl 14 630
+beryl 14 640
+beryl 14 650
+beryl 14 660
+beryl 14 670
+beryl 14 680
+beryl 14 690
+beryl 14 700
+beryl 14 710
+beryl 14 720
+beryl 14 730
+beryl 14 740
+beryl 14 750
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+sit
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 9 0
+sit
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+sit
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+[<Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:akm muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+stand
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+stand
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 0
+beryl 9 10
+stand
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+stand
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+sit
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 14 400
+sit
+beryl 14 410
+beryl 14 420
+beryl 14 430
+beryl 14 440
+beryl 14 450
+beryl 14 460
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[]
+[<Weapon name:qbz muzzle:None foregrip:None>]
+[<Weapon name:qbz muzzle:None foregrip:None>]
+[<Weapon name:qbz muzzle:None foregrip:None>]
+[<Weapon name:qbz muzzle:None foregrip:None>]
+[<Weapon name:qbz muzzle:None foregrip:None>]
+[<Weapon name:qbz muzzle:None foregrip:None>]
+[<Weapon name:qbz muzzle:None foregrip:None>]
+[<Weapon name:qbz muzzle:None foregrip:None>]
+[<Weapon name:qbz muzzle:None foregrip:None>]
+[<Weapon name:qbz muzzle:None foregrip:None>]
+[<Weapon name:qbz muzzle:None foregrip:None>]
+[<Weapon name:qbz muzzle:None foregrip:None>]
+[<Weapon name:qbz muzzle:None foregrip:None>]
+[<Weapon name:qbz muzzle:None foregrip:None>]
+[<Weapon name:qbz muzzle:None foregrip:vertical>]
+[<Weapon name:qbz muzzle:compensator foregrip:vertical>]
+[<Weapon name:qbz muzzle:compensator foregrip:vertical>]
+[<Weapon name:qbz muzzle:compensator foregrip:vertical>]
+[<Weapon name:qbz muzzle:compensator foregrip:vertical>]
+[<Weapon name:qbz muzzle:compensator foregrip:vertical>]
+[<Weapon name:qbz muzzle:compensator foregrip:vertical>]
+[<Weapon name:qbz muzzle:compensator foregrip:vertical>]
+[<Weapon name:qbz muzzle:compensator foregrip:vertical>]
+[<Weapon name:qbz muzzle:compensator foregrip:vertical>]
+[<Weapon name:qbz muzzle:compensator foregrip:vertical>]
+[<Weapon name:qbz muzzle:compensator foregrip:vertical>]
+[<Weapon name:qbz muzzle:compensator foregrip:vertical>]
+[<Weapon name:aug muzzle:compensator foregrip:vertical>]
+[<Weapon name:aug muzzle:compensator foregrip:None>]
+[<Weapon name:aug muzzle:compensator foregrip:None>]
+[<Weapon name:aug muzzle:compensator foregrip:None>]
+[<Weapon name:aug muzzle:compensator foregrip:None>]
+[<Weapon name:aug muzzle:compensator foregrip:None>]
+[<Weapon name:aug muzzle:compensator foregrip:None>]
+[<Weapon name:aug muzzle:compensator foregrip:None>]
+[<Weapon name:aug muzzle:compensator foregrip:None>]
+[<Weapon name:aug muzzle:compensator foregrip:None>]
+[<Weapon name:aug muzzle:compensator foregrip:None>]
+[<Weapon name:aug muzzle:compensator foregrip:None>]
+[<Weapon name:aug muzzle:compensator foregrip:None>]
+[<Weapon name:aug muzzle:compensator foregrip:None>]
+[<Weapon name:aug muzzle:compensator foregrip:vertical>]
+[<Weapon name:aug muzzle:compensator foregrip:vertical>]
+[<Weapon name:aug muzzle:compensator foregrip:vertical>]
+[<Weapon name:aug muzzle:compensator foregrip:vertical>]
+[<Weapon name:aug muzzle:compensator foregrip:vertical>]
+[<Weapon name:aug muzzle:compensator foregrip:vertical>]
+[<Weapon name:aug muzzle:compensator foregrip:vertical>]
+[<Weapon name:aug muzzle:None foregrip:vertical>]
+[<Weapon name:aug muzzle:compensator foregrip:vertical>]
+[<Weapon name:aug muzzle:compensator foregrip:vertical>]
+[<Weapon name:aug muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+stand
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+stand
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+sit
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+sit
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 14 400
+beryl 14 410
+beryl 14 420
+beryl 14 430
+beryl 14 440
+beryl 14 450
+beryl 14 460
+beryl 14 470
+beryl 14 480
+beryl 14 490
+beryl 14 500
+sit
+beryl 14 510
+beryl 14 520
+beryl 14 530
+beryl 14 540
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+beryl 9 0
+beryl 9 10
+beryl 9 20
+stand
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+stand
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 14 400
+beryl 14 410
+beryl 14 420
+beryl 14 430
+beryl 14 440
+beryl 14 450
+beryl 14 460
+beryl 14 470
+beryl 14 480
+beryl 14 490
+beryl 14 500
+beryl 14 510
+stand
+beryl 14 520
+beryl 14 530
+beryl 14 540
+beryl 14 550
+beryl 14 560
+beryl 14 570
+[<Weapon name:m416 muzzle:None foregrip:None>]
+[<Weapon name:m416 muzzle:None foregrip:None>]
+[<Weapon name:m416 muzzle:None foregrip:None>]
+[<Weapon name:m416 muzzle:None foregrip:None>]
+[<Weapon name:m416 muzzle:None foregrip:None>]
+[<Weapon name:m416 muzzle:None foregrip:None>]
+[<Weapon name:m416 muzzle:compensator foregrip:None>]
+[<Weapon name:m416 muzzle:compensator foregrip:None>]
+[<Weapon name:m416 muzzle:compensator foregrip:None>]
+[<Weapon name:m416 muzzle:None foregrip:None>]
+[<Weapon name:m416 muzzle:None foregrip:None>]
+[]
+[]
+[<Weapon name:m416 muzzle:None foregrip:None>]
+[<Weapon name:m416 muzzle:None foregrip:None>]
+[<Weapon name:m416 muzzle:None foregrip:None>]
+[<Weapon name:m416 muzzle:None foregrip:None>]
+[<Weapon name:m416 muzzle:compensator foregrip:None>]
+[<Weapon name:m416 muzzle:compensator foregrip:None>]
+[<Weapon name:m416 muzzle:compensator foregrip:None>]
+[<Weapon name:m416 muzzle:compensator foregrip:None>]
+[<Weapon name:m416 muzzle:compensator foregrip:None>]
+[<Weapon name:m416 muzzle:None foregrip:vertical>]
+[<Weapon name:m416 muzzle:None foregrip:vertical>]
+[<Weapon name:m416 muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+stand
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+stand
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 14 400
+beryl 14 410
+beryl 14 420
+beryl 14 430
+beryl 14 440
+beryl 14 450
+beryl 14 460
+beryl 14 470
+beryl 14 480
+beryl 14 490
+beryl 14 500
+beryl 14 510
+beryl 14 520
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+stand
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+Something problem while update stand state
+beryl 9 160
+stand
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 14 400
+stand
+beryl 14 410
+beryl 14 420
+beryl 14 430
+beryl 14 440
+beryl 14 450
+beryl 14 460
+beryl 14 470
+beryl 14 480
+beryl 14 490
+beryl 14 500
+beryl 14 510
+beryl 14 520
+beryl 14 530
+beryl 14 540
+beryl 14 550
+beryl 14 560
+beryl 14 570
+beryl 14 580
+beryl 14 590
+beryl 14 600
+beryl 14 610
+beryl 14 620
+beryl 14 630
+beryl 14 640
+beryl 14 650
+stand
+beryl 14 660
+beryl 14 670
+beryl 14 680
+beryl 14 690
+beryl 14 700
+beryl 14 710
+beryl 14 720
+beryl 14 730
+beryl 14 740
+beryl 14 750
+beryl 14 760
+beryl 14 770
+beryl 14 780
+beryl 14 790
+beryl 14 800
+beryl 14 810
+beryl 14 820
+beryl 14 830
+beryl 14 840
+beryl 14 850
+beryl 14 860
+beryl 14 870
+beryl 14 880
+beryl 14 890
+stand
+beryl 14 900
+beryl 14 910
+beryl 14 920
+beryl 14 930
+beryl 14 940
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+stand
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+stand
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+stand
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+stand
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 0
+beryl 9 10
+beryl 9 20
+stand
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+stand
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:None foregrip:None>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+beryl 9 180
+sit
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 14 400
+beryl 9 0
+beryl 9 10
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+sit
+beryl 9 170
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+beryl 14 390
+beryl 14 400
+beryl 14 410
+sit
+beryl 14 420
