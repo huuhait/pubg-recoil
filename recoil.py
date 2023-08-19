@@ -33,7 +33,7 @@ class Recoil:
 
   def start(self):
     while True:
-      if self.player_stats.fire and self.player_stats.aim and self.player_stats.get_bullets_left():
+      if self.player_stats.fire and self.player_stats.aim and self.player_stats.get_bullets_left() and self.player_stats.get_active_weapon() != None:
         self.fire()
         continue
       else:
@@ -42,9 +42,6 @@ class Recoil:
 
   def fire(self):
     self.weapon = self.player_stats.get_active_weapon()
-    if self.weapon == None:
-      return
-
     self.config = RecoilConfig(self.weapon.name)
     self.recoil()
 
