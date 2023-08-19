@@ -60,7 +60,7 @@ class Game:
       try:
         if self.scanning == False and self.player_stats.fire and self.player_stats.aim and self.player_stats.get_active_weapon() != None:
           self.player_stats.set_bullets_left(game_functions.get_bullets_left())
-        sleep(0.2)
+        sleep(0.05)
       except:
         print("Something problem while update bullets left")
 
@@ -69,7 +69,7 @@ class Game:
       try:
         if self.scanning == False and self.player_stats.fire and self.player_stats.aim and self.player_stats.get_bullets_left() and self.player_stats.get_active_weapon() != None:
           self.player_stats.set_stand_state(game_functions.get_stand_state())
-        sleep(0.5)
+        sleep(0.1)
       except:
         print("Something problem while update stand state")
 

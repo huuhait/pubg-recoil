@@ -1,0 +1,322 @@
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+[<Weapon name:beryl muzzle:compensator foregrip:vertical>]
+beryl 9 0
+beryl 9 10
+stand
+beryl 9 20
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+stand
+beryl 9 70
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120stand
+
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+stand
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+stand
+beryl 9 230
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+stand
+beryl 9 280
+beryl 9 290
+beryl 9 300
+beryl 9 310
+standberyl 14 320
+
+beryl 14 330
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+stand
+beryl 14 380
+beryl 14 390
+beryl 14 400
+beryl 14 410
+beryl 14 420
+Something problem while update stand state
+stand
+beryl 14 430
+beryl 14 440
+beryl 14 450
+beryl 14 460
+beryl 14 470
+stand
+beryl 14 480
+beryl 14 490
+beryl 14 500
+beryl 14 510
+beryl 14 520
+stand
+beryl 14 530
+beryl 14 540
+beryl 14 550
+beryl 14 560
+beryl 14 570
+stand
+beryl 14 580
+beryl 14 590
+beryl 14 600
+beryl 14 610
+beryl 14 620
+beryl 14 630
+stand
+beryl 14 640
+beryl 14 650
+beryl 14 660
+beryl 14 670
+beryl 14 680
+stand
+beryl 14 690
+beryl 14 700
+beryl 14 710
+beryl 14 720
+beryl 14 730
+stand
+beryl 14 740
+beryl 14 750
+beryl 14 760
+beryl 14 770
+beryl 14 780
+stand
+beryl 14 790
+beryl 14 800
+beryl 14 810
+beryl 14 820
+beryl 14 830
+stand
+beryl 14 840
+beryl 14 850
+beryl 14 860
+beryl 14 870
+beryl 14 880
+stand
+beryl 14 890
+beryl 14 900
+beryl 14 910
+beryl 14 920
+beryl 14 930
+stand
+beryl 14 940
+beryl 14 950
+beryl 14 960
+beryl 14 970
+beryl 14 980
+stand
+beryl 14 990
+beryl 14 1000
+beryl 14 1010
+beryl 9 0
+beryl 9 10
+beryl 9 20
+stand
+beryl 9 30
+beryl 9 40
+beryl 9 50
+beryl 9 60
+beryl 9 70
+stand
+beryl 9 80
+beryl 9 90
+beryl 9 100
+beryl 9 110
+beryl 9 120
+stand
+beryl 9 130
+beryl 9 140
+beryl 9 150
+beryl 9 160
+beryl 9 170
+stand
+beryl 9 180
+beryl 9 190
+beryl 9 200
+beryl 9 210
+beryl 9 220
+beryl 9 230
+stand
+beryl 9 240
+beryl 9 250
+beryl 9 260
+beryl 9 270
+beryl 9 280
+stand
+beryl 9 290
+beryl 9 300
+beryl 9 310
+beryl 14 320
+beryl 14 330
+stand
+beryl 14 340
+beryl 14 350
+beryl 14 360
+beryl 14 370
+beryl 14 380
+stand
+beryl 14 390
+beryl 14 400
+beryl 14 410
+beryl 14 420
+beryl 14 430
+stand
+beryl 14 440
+beryl 14 450
+beryl 14 460
+beryl 14 470
+beryl 14 480
+stand
+beryl 14 490
+beryl 14 500
+beryl 14 510
+beryl 14 520
+beryl 14 530
+stand
+beryl 14 540
+beryl 14 550
+beryl 14 560
+beryl 14 570
+beryl 14 580
+beryl 14 590
+stand
+beryl 14 600
+beryl 14 610
+beryl 14 620
+beryl 14 630
+beryl 14 640
+stand
+beryl 14 650
+beryl 14 660
+beryl 14 670
+beryl 14 680
+beryl 14 690
+stand
+beryl 14 700
+beryl 14 710
+beryl 14 720
+beryl 14 730
+beryl 14 740
+stand
+beryl 14 750
+beryl 14 760
+beryl 14 770
+beryl 14 780
+beryl 14 790
+stand
+beryl 14 800
+beryl 14 810
+beryl 14 820
+beryl 14 830
+beryl 14 840
+stand
+beryl 14 850
+beryl 14 860
+beryl 14 870
+beryl 14 880
+beryl 14 890
+stand
+beryl 14 900
+beryl 14 910
+beryl 14 920
+beryl 14 930
+beryl 14 940
+beryl 14 950sit
+
+beryl 14 960
+beryl 14 970
+beryl 14 980
+beryl 14 990
+beryl 14 1000
+stand
+beryl 14 1010
+beryl 14 1020
+beryl 14 1030
+beryl 14 1040
+beryl 14 1050
+stand
+beryl 14 1060
+beryl 14 1070
+beryl 14 1080
+beryl 14 1090
+beryl 14 1100stand
+
+beryl 14 1110
+beryl 14 1120
+beryl 14 1130
+beryl 14 1140
+beryl 14 1150
+stand
+beryl 14 1160
+beryl 14 1170
+beryl 14 1180
+beryl 14 1190
+sit
+beryl 14 1200
+beryl 14 1210
+beryl 14 1220
+beryl 14 1230
+beryl 14 1240
+beryl 14 1250
+stand
+beryl 14 1260
+beryl 14 1270
+beryl 14 1280
+beryl 14 1290
+beryl 14 1300
+stand
+beryl 14 1310
+beryl 14 1320
+beryl 14 1330
+beryl 14 1340
+beryl 14 1350
+stand
+beryl 14 1360
+beryl 14 1370
+beryl 14 1380
+beryl 14 1390
+beryl 14 1400
+stand
+beryl 14 1410
+beryl 14 1420
+beryl 14 1430
+beryl 14 1440
+beryl 14 1450
+stand
+beryl 14 1460
+beryl 14 1470
+beryl 14 1480
+beryl 14 1490
+beryl 14 1500
+stand
+beryl 14 1510
+beryl 14 1520
+beryl 14 1530
+beryl 14 1540
+beryl 14 1550
+stand
+beryl 14 1560
+beryl 14 1570
+beryl 14 1580
+beryl 14 1590
+beryl 14 1600
+stand
+beryl 14 1610
+beryl 14 1620
+beryl 14 1630
