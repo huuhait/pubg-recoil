@@ -16,7 +16,7 @@ FOREGRIP: dict[str, list[str]] = {
   ]
 }
 
-WEAPONS: list = ["m416", "akm", "aug", "beryl", "qbz", "ace32", "g36c", "vector"]
+WEAPONS: list = ["m416", "akm", "aug", "beryl", "qbz", "ace32", "g36c", "vector", "groza", "p90"]
 
 SCOPE_FACTORS = {
   "x1": 1,
@@ -101,11 +101,7 @@ RECOIL_OFFSETS = {
     "interval": 20,
     "delay_indexes": {
       0: 9,
-      # 150: 7.07,
-      # 240: 7.7,
       320: 14,
-      # 450: 8.92,
-      # 500: 9.84,
     },
     "scopes": [[1, 1], [1, 2]]
   },
@@ -146,22 +142,38 @@ RECOIL_OFFSETS = {
     },
     "scopes": [[1, 1], [1, 2]]
   },
-  # "vector": {
-  #   "interval": 10,
-  #   "delay_indexes": {
-  #     0: 4.8,
-  #     250: 5.3,
-  #     350: 6.5,
-  #     400: 6.8,
-  #     450: 7,
-  #     500: 7.4,
-  #     550: 7.8,
-  #     600: 8.5,
-  #     650: 8.8,
-  #     700: 9.2,
-  #     840: 9.6,
-  #     880: 10.2,
-  #   },
-  #   "scopes": [[1, 1], [1, 2]]
-  # }
+  "vector": {
+    "interval": 10,
+    "delay_indexes": {
+      0: 3,
+      500: 6,
+    },
+    "scopes": [[1, 1], [1, 2]]
+  },
+  "vector": {
+    "interval": 10,
+    "delay_indexes": {
+      0: 3,
+      500: 6,
+    },
+    "scopes": [[1, 1], [1, 2]]
+  },
+  "p90": {
+    "interval": 40,
+    "delay_indexes": {
+      0: 8,
+      100: 12,
+      250: 7
+    },
+    "scopes": [[1, 1], [1, 2]]
+  },
+  "groza": {
+    "interval": 10,
+    "delay_indexes": {
+      0: 3,
+      450: 4,
+      550: 5,
+    },
+    "scopes": [[1, 1], [1, 2]]
+  }
 }

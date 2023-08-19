@@ -10,6 +10,9 @@ class PlayerStats:
   bullets_left: bool = False
   stand_state: str = "stand"
 
+  def is_aim_fire(self) -> bool:
+    return self.aim and self.fire
+
   def set_fire(self, fire: bool):
     self.fire = fire
 

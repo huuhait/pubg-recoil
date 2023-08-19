@@ -33,9 +33,8 @@ class Recoil:
 
   def start(self):
     while True:
-      if self.player_stats.fire and self.player_stats.aim and self.player_stats.get_bullets_left() and self.player_stats.get_active_weapon() != None:
+      if self.player_stats.is_aim_fire() and self.player_stats.get_bullets_left() and self.player_stats.get_active_weapon() != None:
         self.fire()
-        continue
       else:
         self.stop()
         sleep(0.01)
@@ -55,7 +54,6 @@ class Recoil:
       if self.ms >= delay:
         current_index = index
 
-    print(self.player_stats.get_active_weapon().name, current_index, self.ms)
     pos = 0
     if self.ostatokX >= 1:
       pos = 1
