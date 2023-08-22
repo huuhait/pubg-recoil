@@ -7,15 +7,19 @@ import (
 )
 
 func MatchImage(img image.Image, template gocv.Mat) (match bool, err error) {
-	matImg, err := gocv.ImageToMatRGBA(img)
+	imageResize := ImageResize(img, 3)
+	imgGray := ImageToGrayScale(imageResize)
+	matImg, err := gocv.ImageGrayToMatGray(imgGray)
 	if err != nil {
 		return false, err
 	}
-	result := gocv.NewMat()
-	defer result.Close()
+	matResult := gocv.NewMat()
+	defer matResult.Close()
 	mask := gocv.NewMat()
-	gocv.MatchTemplate(matImg, template, &result, gocv.TmCcoeffNormed, mask)
+	gocv.MatchTemplate(matImg, template, &matResult, gocv.TmCcoeffNormed, mask)
 	mask.Close()
 
-	return
+	_, maxVal, _, _ := gocv.MinMaxLoc(matResult)
+
+	return maxVal >= 0.85, nil
 }

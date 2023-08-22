@@ -8,6 +8,8 @@ import (
 	"github.com/huuhait/pubg-recoil/pkg/stats"
 	"github.com/huuhait/pubg-recoil/pkg/utils"
 	"github.com/zsmartex/pkg/v2/log"
+
+	hook "github.com/robotn/gohook"
 )
 
 type Game struct {
@@ -37,6 +39,7 @@ func (g *Game) ScanStandState() {
 			}
 
 			g.playerStats.SetStandState(state)
+			g.GUI.SetStandState(state)
 		}
 		time.Sleep(50 * time.Millisecond)
 	}
@@ -93,9 +96,59 @@ func (g *Game) ScanInventory() {
 		}
 
 		g.playerStats.SetWeapons(weapons)
+		g.GUI.SetWeapons(weapons)
+		currentActiveWeapon, found := g.playerStats.GetActiveWeapon()
+		if found {
+			g.GUI.SetActiveWeapon(currentActiveWeapon)
+		}
 
 		time.Sleep(20 * time.Millisecond)
 	}
+}
+
+func (g *Game) DeviceHook() {
+	hook.Register(hook.KeyDown, []string{"tab"}, func(e hook.Event) {
+		g.scanning = true
+	})
+
+	hook.Register(hook.KeyDown, []string{"1"}, func(e hook.Event) {
+		g.playerStats.SetActiveWeapon(1)
+		currentActiveWeapon, _ := g.playerStats.GetActiveWeapon()
+		g.GUI.SetActiveWeapon(currentActiveWeapon)
+	})
+
+	hook.Register(hook.KeyDown, []string{"2"}, func(e hook.Event) {
+		g.playerStats.SetActiveWeapon(2)
+		currentActiveWeapon, _ := g.playerStats.GetActiveWeapon()
+		g.GUI.SetActiveWeapon(currentActiveWeapon)
+	})
+
+	hook.Register(hook.MouseHold, []string{}, func(e hook.Event) {
+		if e.Button == hook.MouseMap["right"] {
+			g.playerStats.SetAim(true)
+		} else if e.Button == hook.MouseMap["left"] {
+			g.playerStats.SetFire(true)
+		}
+	})
+
+	hook.Register(hook.MouseUp, []string{}, func(e hook.Event) {
+		if e.Button == hook.MouseMap["right"] {
+			g.playerStats.SetAim(false)
+		} else if e.Button == hook.MouseMap["left"] {
+			g.playerStats.SetFire(false)
+		}
+	})
+
+	hook.Register(hook.MouseDown, []string{}, func(e hook.Event) {
+		if e.Button == hook.MouseMap["right"] {
+			g.playerStats.SetAim(false)
+		} else if e.Button == hook.MouseMap["left"] {
+			g.playerStats.SetFire(false)
+		}
+	})
+
+	s := hook.Start()
+	<-hook.Process(s)
 }
 
 func (g *Game) Start() {
@@ -103,8 +156,5 @@ func (g *Game) Start() {
 	go g.ScanBullets()
 	go g.ScanStandState()
 	go g.recoil.Start()
-
-	for {
-		time.Sleep(1 * time.Second)
-	}
+	go g.DeviceHook()
 }

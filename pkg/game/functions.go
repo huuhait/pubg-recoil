@@ -4,10 +4,12 @@ import (
 	"image"
 	"strings"
 
+	"github.com/huuhait/pubg-recoil/pkg/assets"
 	"github.com/huuhait/pubg-recoil/pkg/screen_coords"
 	"github.com/huuhait/pubg-recoil/pkg/stats"
 	"github.com/huuhait/pubg-recoil/pkg/utils"
 	"github.com/huuhait/pubg-recoil/pkg/weapon"
+	"gocv.io/x/gocv"
 )
 
 func (*Game) getStandState() (stats.StandState, error) {
@@ -31,12 +33,17 @@ func (*Game) getStandState() (stats.StandState, error) {
 }
 
 func (g *Game) isInventoryOpening(screenshot image.Image) (bool, error) {
-	_, err := utils.CropImage(screenshot, screen_coords.Inventory)
+	img, err := utils.CropImage(screenshot, screen_coords.Inventory)
 	if err != nil {
 		return false, err
 	}
 
-	return false, nil
+	result, err := utils.GetTextFromImage(img)
+	if err != nil {
+		return false, err
+	}
+
+	return result == "INVENTORY", nil
 }
 
 func (*Game) isBulletsAvailable() (bool, error) {
@@ -49,11 +56,11 @@ func (*Game) isBulletsAvailable() (bool, error) {
 	return r != 255, nil
 }
 
-func (g *Game) getWeapon(img image.Image) (*weapon.Weapon, error) {
+func (g *Game) getWeaponName(img image.Image) (string, error) {
 	var name string
 	text, err := utils.GetTextFromImage(img)
 	if err != nil {
-		return nil, err
+		return "", err
 	}
 
 	text = strings.ToLower(text)
@@ -65,7 +72,9 @@ func (g *Game) getWeapon(img image.Image) (*weapon.Weapon, error) {
 		name = "Beryl"
 	} else if strings.HasPrefix(text, "ace") {
 		name = "ACE32"
-	} else if strings.HasPrefix(text, "qb") {
+	} else if strings.HasPrefix(text, "au") {
+		name = "AUG"
+	} else if strings.Contains(text, "bz") {
 		name = "QBZ"
 	} else if strings.HasPrefix(text, "g3") {
 		name = "G36C"
@@ -77,16 +86,98 @@ func (g *Game) getWeapon(img image.Image) (*weapon.Weapon, error) {
 		name = "Groza"
 	}
 
-	if len(name) == 0 {
+	return name, nil
+}
+
+func (g *Game) getWeapon(img image.Image) (*weapon.Weapon, error) {
+	imgName, err := utils.CropImage(img, screen_coords.WeaponName)
+	if err != nil {
+		return nil, err
+	}
+
+	weaponName, err := g.getWeaponName(imgName)
+	if err != nil {
+		return nil, err
+	}
+
+	if len(weaponName) == 0 {
 		return nil, nil
 	}
 
-	weapon := weapon.NewWeapon(name)
+	var grip weapon.Grip
+	for gripName, assets := range assets.GripAssets {
+		if len(grip) > 0 {
+			break
+		}
 
-	return weapon, nil
+		for _, filepath := range assets {
+			template := gocv.IMRead(filepath, gocv.IMReadGrayScale)
+			match, err := utils.MatchImage(img, template)
+			if err != nil {
+				return nil, err
+			}
+
+			if match {
+				grip = gripName
+				break
+			}
+		}
+	}
+
+	var muzzle weapon.Muzzle
+	for muzzleName, assets := range assets.MuzzleAssets {
+		if len(muzzle) > 0 {
+			break
+		}
+
+		for _, filepath := range assets {
+			template := gocv.IMRead(filepath, gocv.IMReadGrayScale)
+			match, err := utils.MatchImage(img, template)
+			if err != nil {
+				return nil, err
+			}
+
+			if match {
+				muzzle = muzzleName
+				break
+			}
+		}
+	}
+
+	w := weapon.NewWeapon(weaponName)
+	w.Grip = grip
+	w.Muzzle = muzzle
+
+	return w, nil
 }
 
 func (g *Game) getWeapons(screenshot image.Image) ([]*weapon.Weapon, error) {
+	weapons := make([]*weapon.Weapon, 0)
+	firstWeaponImg, err := utils.CropImage(screenshot, screen_coords.FirstGun)
+	if err != nil {
+		return nil, err
+	}
 
-	return make([]*weapon.Weapon, 0), nil
+	w, err := g.getWeapon(firstWeaponImg)
+	if err != nil {
+		return nil, err
+	}
+	if w != nil {
+		weapons = append(weapons, w)
+	}
+
+	secondWeaponImg, err := utils.CropImage(screenshot, screen_coords.SecondGun)
+	if err != nil {
+		return nil, err
+	}
+
+	w, err = g.getWeapon(secondWeaponImg)
+	if err != nil {
+		return nil, err
+	}
+	if w != nil {
+		weapons = append(weapons, w)
+	}
+
+	return weapons, nil
 }

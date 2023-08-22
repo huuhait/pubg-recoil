@@ -2,7 +2,7 @@ package screen_coords
 
 import "image"
 
-var FirstGun = image.Rect(1760, 155, 2420, 375)
+var FirstGun = image.Rect(1760, 115, 2420, 375)
 var SecondGun = image.Rect(1760, 388, 2420, 648)
 
 var Attachments = map[string]image.Rectangle{

@@ -35,6 +35,14 @@ func NewPlayerStats() *PlayerStats {
 	}
 }
 
+func (p *PlayerStats) SetAim(aim bool) {
+	p.hold.Aim = aim
+}
+
+func (p *PlayerStats) SetFire(fire bool) {
+	p.hold.Fire = fire
+}
+
 func (p *PlayerStats) SetWeapons(weapons []*weapon.Weapon) {
 	p.weapons = weapons
 }
@@ -60,7 +68,7 @@ func (p *PlayerStats) GetActiveWeapon() (weapon *weapon.Weapon, found bool) {
 		return nil, false
 	}
 
-	activeWeapon := p.weapons[p.activeWeaponSlot]
+	activeWeapon := p.weapons[p.activeWeaponSlot-1]
 
 	return activeWeapon, true
 }
@@ -72,11 +80,19 @@ func (p *PlayerStats) Hold() PlayerStatsHold {
 func (p *PlayerStats) ReadyRecoil() bool {
 	_, found := p.GetActiveWeapon()
 
-	return p.hold.Aim && p.hold.Fire && found && p.IsAvailableBullets()
+	// log.Info(p.IsAvailableBullets())
+
+	return p.hold.Aim && p.hold.Fire && found
 }
 
 func (p *PlayerStats) GetStandFactor() float64 {
-	return 1.0
+	if p.standState == StandStateStand {
+		return 1
+	} else if p.standState == StandStateSit {
+		return 1.3
+	} else {
+		return 1.8
+	}
 }
 
 func (p *PlayerStats) GetStandState() StandState {
