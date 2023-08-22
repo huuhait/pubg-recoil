@@ -1,4 +1,2 @@
-build
-dist
-main.spec
-pyuac.*
+data
+*.exe

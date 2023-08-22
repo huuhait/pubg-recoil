@@ -1,2 +1,2 @@
 build:
-	pyinstaller --onefile main.py --uac-admin --console
+	go build -ldflags -H=windowsgui main.go
