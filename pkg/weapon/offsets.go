@@ -9,15 +9,15 @@ var RecoilOffsets = map[string]RecoilOffset{
 	"AKM": {
 		Interval: 10,
 		DelayIndexes: map[int]float64{
-			0:   5,
-			550: 7.6,
+			0:   5.4,
+			550: 7.75,
 		},
 	},
 	"M416": {
 		Interval: 10,
 		DelayIndexes: map[int]float64{
-			0:   5,
-			650: 7.6,
+			0:   5.4,
+			550: 7.75,
 		},
 	},
 	"AUG": {

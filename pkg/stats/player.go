@@ -80,9 +80,7 @@ func (p *PlayerStats) Hold() PlayerStatsHold {
 func (p *PlayerStats) ReadyRecoil() bool {
 	_, found := p.GetActiveWeapon()
 
-	// log.Info(p.IsAvailableBullets())
-
-	return p.hold.Aim && p.hold.Fire && found
+	return p.hold.Aim && p.hold.Fire && found && p.IsAvailableBullets()
 }
 
 func (p *PlayerStats) GetStandFactor() float64 {

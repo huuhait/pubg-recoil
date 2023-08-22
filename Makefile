@@ -1,2 +1,2 @@
 build:
-	go build -ldflags -H=windowsgui main.go
+	go build -ldflags -H=windowsgui -o build/bin/huuhait.exe main.go

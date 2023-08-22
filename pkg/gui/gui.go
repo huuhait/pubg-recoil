@@ -62,6 +62,7 @@ func (g *GUI) SetWeapons(weapons []*weapon.Weapon) {
 			label.SetText("- Empty")
 		}
 	}
+	g.window.Content().Refresh()
 }
 
 func (g *GUI) SetActiveWeapon(weapon *weapon.Weapon) {
@@ -70,8 +71,10 @@ func (g *GUI) SetActiveWeapon(weapon *weapon.Weapon) {
 	} else {
 		g.selectedWeaponLabel.SetText(fmt.Sprintf("Selected Weapon: %s", weapon.Name))
 	}
+	g.window.Content().Refresh()
 }
 
 func (g *GUI) SetStandState(state stats.StandState) {
 	g.standStateLabel.SetText(fmt.Sprintf("Stand State: %s", state))
+	g.window.Content().Refresh()
 }

@@ -4,6 +4,7 @@ import (
 	"image"
 	"strings"
 
+	"github.com/go-playground/colors"
 	"github.com/huuhait/pubg-recoil/pkg/assets"
 	"github.com/huuhait/pubg-recoil/pkg/screen_coords"
 	"github.com/huuhait/pubg-recoil/pkg/stats"
@@ -19,13 +20,13 @@ func (*Game) getStandState() (stats.StandState, error) {
 	}
 
 	standColor := utils.GetPixel(img, 38, 12)
-	r, g, b, _ := standColor.RGBA()
-	if r > 200 && g > 200 && b > 200 {
+	color := colors.FromStdColor(standColor)
+	if color.R > 200 && color.G > 200 && color.B > 200 {
 		return stats.StandStateStand, nil
 	}
 	lieColor := utils.GetPixel(img, 13, 49)
-	r, g, b, _ = lieColor.RGBA()
-	if r > 200 && g > 200 && b > 200 {
+	color = colors.FromStdColor(lieColor)
+	if color.R > 200 && color.G > 200 && color.B > 200 {
 		return stats.StandStateLie, nil
 	}
 
@@ -52,8 +53,8 @@ func (*Game) isBulletsAvailable() (bool, error) {
 		return false, err
 	}
 
-	r, _, _, _ := utils.GetPixel(img, 23, 23).RGBA()
-	return r != 255, nil
+	color := colors.FromStdColor(utils.GetPixel(img, 23, 23))
+	return color.R != 255, nil
 }
 
 func (g *Game) getWeaponName(img image.Image) (string, error) {

@@ -9,7 +9,6 @@ import (
 	"github.com/huuhait/pubg-recoil/pkg/mouse"
 	"github.com/huuhait/pubg-recoil/pkg/stats"
 	"github.com/huuhait/pubg-recoil/pkg/weapon"
-	"github.com/zsmartex/pkg/v2/log"
 )
 
 type Recoil struct {
@@ -85,7 +84,6 @@ func (r *Recoil) StartFire() {
 	if float64(int(x)) != x {
 		intX := int(x)
 		nf, _ := strconv.ParseFloat(fmt.Sprintf("0.%d", intX), 64)
-		log.Info(nf)
 		if x > 0 {
 			r.ostatokX += nf
 		} else {
