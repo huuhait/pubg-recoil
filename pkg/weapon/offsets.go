@@ -31,8 +31,8 @@ var RecoilOffsets = map[string]RecoilOffset{
 	"Beryl": {
 		Interval: 20,
 		DelayIndexes: map[int]float64{
-			0:   12.6,
-			380: 19.6,
+			0:   12.8,
+			380: 19.5,
 		},
 	},
 	"QBZ": {

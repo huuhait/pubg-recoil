@@ -87,9 +87,9 @@ func (p *PlayerStats) GetStandFactor() float64 {
 	if p.standState == StandStateStand {
 		return 1
 	} else if p.standState == StandStateSit {
-		return 1.3
+		return 1.4
 	} else {
-		return 1.8
+		return 2
 	}
 }
 
