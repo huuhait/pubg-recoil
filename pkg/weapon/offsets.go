@@ -7,37 +7,36 @@ type RecoilOffset struct {
 
 var RecoilOffsets = map[string]RecoilOffset{
 	"AKM": {
-		Interval: 10,
+		Interval: 8,
 		DelayIndexes: map[int]float64{
-			0:    5,
-			350:  6,
-			600:  7,
-			800:  7.5,
-			1200: 7,
-			1300: 7.5,
-			2000: 6.5,
+			0:   5,
+			450: 7,
 		},
 	},
 	"M416": {
 		Interval: 10,
 		DelayIndexes: map[int]float64{
 			0:   5,
-			650: 7.6,
+			550: 7.5,
 		},
 	},
 	"AUG": {
-		Interval: 20,
+		Interval: 8,
 		DelayIndexes: map[int]float64{
-			0:   7,
-			230: 11,
-			400: 17,
+			0:    5,
+			200:  4,
+			350:  5,
+			450:  8,
+			750:  10,
+			1000: 8,
 		},
 	},
 	"Beryl": {
-		Interval: 20,
+		Interval: 8,
 		DelayIndexes: map[int]float64{
-			0:   12.6,
-			380: 19.6,
+			0:   6.6,
+			350: 7,
+			550: 9.5,
 		},
 	},
 	"QBZ": {
