@@ -85,13 +85,13 @@ func (r *Recoil) StartFire() {
 	if float64(int(x)) != x {
 		intX := int(x)
 		nf, _ := strconv.ParseFloat(fmt.Sprintf("0.%d", intX), 64)
-		log.Info(nf)
 		if x > 0 {
 			r.ostatokX += nf
 		} else {
 			r.ostatokXneg -= nf
 		}
 	}
+	log.Info(r.ms)
 
 	r.procMouse.Move(0, float32(int(x)))
 	time.Sleep(time.Duration(offset.Interval) * time.Millisecond)
